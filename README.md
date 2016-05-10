@@ -13,16 +13,23 @@ If you would like to help us by proposing a translation then please follow the b
 
 Locale File	Language
 
-values/strings.xml English (BASE)
+1. values/strings.xml English (BASE)
 
-values-es/strings.xml Spanish
-values-fr/strings.xml French
-values-hi/strings.xml Hindi
-values-ta/strings.xml Tamil
-values-ur/strings.xml Urdu
-values-vi/strings.xml Vietnamese
-values-zh_CN/strings.xml Mandarin / China
-values-zh_TW/strings.xml Mandarin / Taiwan
+2. values-es/strings.xml Spanish
+
+3. values-fr/strings.xml French
+
+4. values-hi/strings.xml Hindi
+
+5. values-ta/strings.xml Tamil
+
+6. values-ur/strings.xml Urdu
+
+7. values-vi/strings.xml Vietnamese
+
+8. values-zh_CN/strings.xml Mandarin / China
+
+9. values-zh_TW/strings.xml Mandarin / Taiwan
 
 3. Click the Pencil button above the file viewer to open the editor on this particular locale file. If you cannot click on the pencil button because it is greyed out, you must go back and verify the email address on your Github account first.
 
