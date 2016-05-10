@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General commands - start -->
+    <string name="ok">
+        OK
+    </string>
+    <string name="cancel">
+        Cancel
+    </string>
+    <string name="yes">
+        Yes
+    </string>
+    <string name="no">
+        No
+    </string>
+    <string name="none">
+        None
+    </string>
+    <string name="continue_word">
+        Continue
+    </string>
+    <string name="home">
+        Home
+        <!-- return to main screen -->
+    </string>
+    <string name="save">
+        Save
+    </string>
+    <string name="delete">
+        Delete
+    </string>
+    <string name="delete_all">
+        Delete All
+    </string>
+    <string name="select">
+        Select
+    </string>
+    <string name="please">
+        Please
+    </string>
+    <string name="return_word">
+        Return
+    </string>
+    <string name="next">
+        Next
+    </string>
+    <string name="back">
+        Back
+        <!-- move backwards -->
+    </string>
+    <string name="forward">
+        Forward
+        <!-- move forwards -->
+    </string>
+    <string name="warning">
+        Warning
+    </string>
+    <string name="error">
+        Error
+    </string>
+    <string name="open">
+        Open
+    </string>
+    <string name="close">
+        Close
+    </string>
+    <string name="camera">
+        Camera
+    </string>
+    <string name="gallery">
+        Gallery
+    </string>
+    <string name="defined">
+        Defined
+    </string>
+    <string name="undefined">
+        Undefined
+    </string>
+    <!-- General commands - end -->
+
+    <!-- omb and privacy statement - start -->
+    <string name="expiration_date">
+        Expiration date: 07/31/2016
+    </string>
+    <string name="ome_number">
+        OMB number: 0925-0612
+    </string>
+    <string name="burden_statement">
+        BURDEN STATEMENT
+        \nPublic reporting burden for this collection of information is estimated to average 3
+        minutes per response. This estimate includes the time for reviewing instructions,
+        gathering, and entering  data. An agency may not conduct or sponsor, and a person is not
+        required to respond to, a collection of information unless it displays a currently
+        valid OMB control number. Send comments regarding this burden estimate or any other aspect
+        of this collection of information, including suggestions for reducing this burden,
+        to:
+        \n\tNIH,
+        \n\tProject Clearance Branch,
+        \n\t6705 Rockledge Drive, MSC 7974,
+        \n\tBethesda,
+        \n\tMD 20892-7974,
+        \n\tATTN: PRA (0925-0612).
+        \nDo not return the completed form to this address.&quot;
+    </string>
+    <string name="omb_notice">
+        Notice
+    </string>
+    <string name="omb_submission">
+        Submission of information is voluntary. All submitted information will be made publicly available.
+    </string>
+    <string name="omb_text1">
+        Public reporting burden for this collection of information is estimated to average 3 minutes per response.
+        This estimate includes the time for reviewing instructions, gathering, and entering data.
+        An agency may not conduct or sponsor, and a person is not required to respond to,
+        a collection of information unless it displays a currently valid OMB control number.
+        Send comments regarding this burden estimate or any other aspect of this collection of information,
+        including suggestions for reducing this burden, to:
+    </string>
+    <string name="omb_text2">
+        ATTN: PRA (0925-0612) \nNIH Project Clearance Branch \n6705 Rockledge Drive MSC 7974 \nBethesda MD 20892-7974
+        <!-- do not translate this line -->
+    </string>
+    <string name="omb_sub">
+        I have read this and agree
+    </string>
+    <string name="i_refuse">
+        I Refuse
+    </string>
+    <!-- omb and privacy statement - end -->
+
+    <!-- home screen - start -->
+    <string name="app_name">
+        ReUnite®
+        <!-- do not need translate -->
+    </string>
+    <string name="welcome">
+        Welcome
+    </string>
+    <string name="username">
+        Username
+    </string>
+    <string name="password">
+        Password
+    </string>
+    <string name="login">
+        Login
+    </string>
+    <string name="logout">
+        Logout
+    </string>
+    <string name="login_or_logout">
+        Login/Logout
+    </string>
+    <string name="guest">
+        Guest
+    </string>
+    <string name="you_are_now_a_developer">
+        You are now a developer!
+    </string>
+    <string name="web_server">
+        Web Server
+    </string>
+    <string name="server_status">
+        Service Status
+        <!-- online or offline, connected or dis-connected -->
+    </string>
+    <string name="check">
+        Check
+    </string>
+    <string name="server_latency">
+        Server Latency
+        <!-- server response time -->
+    </string>
+    <string name="event">
+        Event
+    </string>
+    <string name="change">
+        Change
+    </string>
+    <string name="date">
+        Date
+    </string>
+    <string name="event_location">
+        Event Location
+    </string>
+    <string name="find">
+        Find
+        <!-- find a missing person -->
+    </string>
+    <string name="report">
+        Report
+        <!-- report a missong person -->
+    </string>
+    <string name="organize">
+        Organize
+        <!-- organize files which saved in folders -->
+    </string>
+    <string name="do_you_want_to_login">
+        Do you want to login?
+    </string>
+    <string name="do_you_want_to_login_dis">
+        As a guest, you may have some limited functions to use. To login is highly suggested.
+    </string>
+    <!-- home screen - end -->
+
+    <!-- missing person list - start -->
+    <string name="filter">
+        Filter
+        <!-- make selections to narrow down the searching -->
+    </string>
+    <string name="name">
+        Name
+        <!-- search by input missing person's name -->
+    </string>
+    <string name="photo">
+        Photo
+        <!-- search by input missing person's photo -->
+    </string>
+    <string name="search">
+        Search
+    </string>
+    <string name="more">
+        More
+        <!-- more to next page -->
+    </string>
+    <!-- missing person list - end -->
+
+    <!-- missing person information - start -->
+    <string name="draft">
+        Draft
+        <!-- folder to save uncompleted records -->
+    </string>
+    <string name="send">
+        Send
+        <!-- command to send the report -->
+    </string>
+    <string name="primary_image">
+        Primary Image
+        <!-- first image of a missing person -->
+    </string>
+    <string name="secondary_image">
+        Secondary Image
+        <!-- second or third, etc image of a missing person -->
+    </string>
+    <string name="press_button_on_right_side_to_add_caption">
+        Press button on right side to add caption
+        <!-- description -->
+    </string>
+    <string name="caption">
+        Caption
+    </string>
+    <string name="missing_person_information">
+        Missing Person Information
+    </string>
+    <string name="first_name">
+        First Name
+    </string>
+    <string name="last_name">
+        Last Name
+    </string>
+    <string name="other_names">
+        Other Names
+    </string>
+    <string name="age">
+        Age
+    </string>
+    <string name="gender">
+        Gender
+    </string>
+    <string name="male">
+        Male
+    </string>
+    <string name="female">
+        Female
+    </string>
+    <string name="unknown">
+        Unknown
+    </string>
+    <string name="complex">
+        Complex
+    </string>
+    <string name="status">
+        Status
+        <!-- missing person's status: missing, alive and well, injured, deceased, unknown or found -->
+    </string>
+    <string name="missing">
+        Missing
+    </string>
+    <string name="alive_and_well">
+        Alive and Well
+    </string>
+    <string name="injured">
+        Injured
+    </string>
+    <string name="deceased">
+        Deceased
+    </string>
+    <string name="found">
+        Found
+    </string>
+    <string name="last_seen_location">
+        Last Seen Location
+    </string>
+    <string name="additional_details">
+        Additional Details
+    </string>
+    <string name="missing_person_uuid">
+        Missing Person UUID
+    </string>
+    <string name="last_updated_date">
+        Last Updated Date
+    </string>
+    <string name="follow">
+        Follow
+    </string>
+    <string name= "why_follow_a_record">
+        Why follow a record?
+    </string>
+    <string name="follow_record_des">
+        To receive email alert when this record is updated with new information, you can select to
+        follow this person. You will only receive an email when the record is updated with new
+        information or when someone leaves a comment.
+    </string>
+    <!-- missing person information - end -->
+
+    <!-- Report missing person - start -->
+    <string name="input_by_right_side_button">
+        Input by right side button
+    </string>
+    <string name="google_map_view">
+        Google Map View
+    </string>
+    <string name="gps_cannot_detect_current_location">
+        GPS cannot detect current location
+    </string>
+    <string name="let_gps_to_fill_your_address">
+        Let GPS to fill your address
+    </string>
+    <string name="address_book_is_empty">
+        Address book is empty
+    </string>
+    <string name="select_from_adress_book">
+        Select from address book
+    </string>
+    <string name="street">
+        Street
+    </string>
+    <string name="city">
+        City
+    </string>
+    <string name="state">
+        State
+    </string>
+    <string name="zip">
+        Zip
+    </string>
+    <string name="country">
+        Country
+    </string>
+    <string name="comments">
+        Comments
+    </string>
+    <string name="maximum_500_characters">
+        Maximum 500 characters
+    </string>
+    <string name="required_field">
+        Required field
+        <!-- the field that the user must input -->
+    </string>
+    <!-- Report missing person - end -->
+
+    <!-- Organize - start -->
+    <string name="lost_person_files">
+        Lost Person Files
+    </string>
+    <string name="file_found">
+        file found
+    </string>
+    <string name="files_found">
+        files found
+    </string>
+    <string name="no_file_is_found">
+        No file is found
+    </string>
+    <!-- Organize - end -->
+
+    <!-- web server latency - start -->
+    <string name="excellent">
+        Excellent
+    </string>
+    <string name="good">
+        Good
+    </string>
+    <string name="poor">
+        Poor
+    </string>
+    <string name="disconnected">
+        Disconnected
+    </string>
+    <!-- web server latency - end -->
+
+
+
+
+
+
+
+
+
+
+
+    <string name="title_changelog">Change log</string>
+    <string name="changelog_close">Close</string>
+    <string name="menu_settings">Settings</string>
+    <!-- added in version 7.1.1 -->
+    <string name="title_future_development">Future Development Log</string>
+    <string name="future_development_close">Close</string>
+
+    <string name="about_reunite">
+        ReUnite® is an R&amp;D project of the Lister Hill National Center for Biomedical  Communications,
+        a division of the National Library of Medicine,
+        part of the National Institutes of Health.
+    </string>
+
+    <string name="privacy_statement_title">PRIVACY STATEMENT</string>
+    <string name="privacy_statement_content">
+        The U.S. National Library of Medicine (NLM), part of the U.S. Department of Health and Human Services,
+        has in its mission the development of communication systems technology to improve the delivery of health information.
+        The Reunite app is designed to speed uploading necessary personal information about missing (and found)
+        people to NLM\'s People Locator (PL) service available at https://pl.nlm.nih.gov.
+        This service being provided for the explicit purpose of assisting in post-disaster family reunification as well as
+        studying the utility of such tools in responding to disasters. More information on the PL service and
+        the Lost Person Finder Project can be found at http://lpf.nlm.nih.gov\nNote:
+        \n\t* Submission of information using this app is voluntary.
+        \n\t* All submitted information may be made publicly available.
+        \n\t* Data stored using this tool may not be moderated and could be searchable by all visitors to NLM\'s PL Web site.
+        \n\t* Data stored within the app is not encrypted at this time.
+        \n\t* The user of this app must have a PL service account to upload information about missing or found people.
+        \n\t* No PL login is necessary to search the site.
+        \n\t* Information reported on an individual and sender\'s provided contact information may be disseminated to other
+              Government agencies or other institutions assisting the reunification efforts after any disaster where U.S. Government relief efforts are being provided.
+        \n\t* For missing person data provided following a disaster: If you hear from the person you are concerned about,
+              please follow instructions at the PL Web Site to update their status.
+        \n\t* The application does not track user location.
+        \n\t* User location is detected on explicit user action to aid address lookup.
+    </string>
+
+    <string name="privacy_statement">
+        PRIVACY STATEMENT
+        \n\nThe U.S. National Library of Medicine (NLM), part of the U.S. Department of Health and Human Services,
+        has in its mission the development of communication systems technology to improve the delivery of health information.
+        The Reunite app is designed to speed uploading necessary personal information about missing (and found)
+        people to NLM\'s People Locator (PL) service available at https://pl.nlm.nih.gov.
+        This service being provided for the explicit purpose of assisting in post-disaster family reunification as well as
+        studying the utility of such tools in responding to disasters. More information on the PL service and
+        the Lost Person Finder Project can be found at http://lpf.nlm.nih.gov\n\nNote:
+        \n  * Submission of information using this app is voluntary.
+        \n  * All submitted information may be made publicly available.
+        \n  * Data stored using this tool may not be moderated and could be searchable by all visitors to NLM\'s PL Web site.
+        \n  * Data stored within the app is not encrypted at this time.
+        \n  * The user of this app must have a PL service account to upload information about missing or found people.
+        \n  * No PL login is necessary to search the site.
+        \n  * Information reported on an individual and sender\'s provided contact information may be disseminated to other
+              Government agencies or other institutions assisting the reunification efforts after any disaster where U.S. Government relief efforts are being provided.
+        \n  * For missing person data provided following a disaster: If you hear from the person you are concerned about,
+              please follow instructions at the PL Web Site to update their status.
+        \n  * The application does not track user location.
+        \n  * User location is detected on explicit user action to aid address lookup.
+        \n\n
+    </string>
+
+    <!-- facebook app id -->
+    <string name="facebook_app_id">ga0RGNYHvNM5d0SLGQfpQWAPGJ8=</string>
+
+    <string name="main_page_text">Share It! App</string>
+    <string name="likeable_image">Likeable image</string>
+    <string name="share_menu_title">Share</string>
+
+    <!--
+    Project name	lpf-messaging
+    Project ID	lpf-messaging
+    Project number	352368471875
+    -->
+    <string name="gcm_lpf_messaging_sender_id">352368471875</string>
+    <string name="gcm_lpf_messaging_api_key">AIzaSyCJDFwX0td_FDNjVVYT8-wkGiuWGMful5A</string>
+
+    <string name="gcm_send_message">Token retrieved and sent to server! You can now use gcmsender to send downstream messages to this app.</string>
+    <string name="registering_message">Generating InstanceID token...</string>
+
+    <string name="token_error_message">An error occurred while either fetching the InstanceID token,
+        sending the fetched token to the server or subscribing to the PubSub topic. Please try
+        running the sample again.</string>
+    // GCM end
+
+    <string name="google_analytics_property_id">UA-49715038-1"</string>
+
+    <!-- must define release date before release-->
+    <string name="release_date">4/28/2016</string>
+    <string name="title_activity_">Activity</string>
+    <string name="title_activity_send_gcmmessage">SendGCMMessageActivity</string>
+
+    <string name="why_follow_record">To receive email alerts when this record is updated with new information, you can elect to follow this person. You will only receive an email when the record is updated with new information or when someone leaves a comment.</string>
+
+</resources>
