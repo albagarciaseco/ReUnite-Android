@@ -1,15 +1,7 @@
 # ReUnite-Android
 Supporting multiple languages
 
-English (BASE)
-Spanish
-French
-Hindi
-Tamil
-Urdu
-Vietnamese
-Mandarin / China
-Mandarin / Taiwan
+English (BASE), Spanish, French, Hindi, Tamil, Urdu, Vietnamese, Mandarin / China, Mandarin / Taiwan
 
 internationalization (i18n) libraries for the Taupo project
 
@@ -20,7 +12,9 @@ If you would like to help us by proposing a translation then please follow the b
 2. Choose a language to translate. Currently English and Spanish are the only two languages we support, but we will be adding additional languages in the future. Once you have decided which language you would like to work on, navigate to the specific language's locale file via one of the links from the table below. Clicking a link to a locale file will open the file in a new tab so that you may refer back here to continue following these instructions.
 
 Locale File	Language
+
 values/strings.xml English (BASE)
+
 values-es/strings.xml Spanish
 values-fr/strings.xml French
 values-hi/strings.xml Hindi
