@@ -1,1 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General commands - start -->
+    <string name="ok">
+        De acuerdo
+    </string>
+    <string name="cancel">
+        Cancelar
+    </string>
+    <string name="yes">
+        Sí
+    </string>
+    <string name="no">
+        No
+    </string>
+    <string name="continue_word">
+        Continuar
+    </string>
+    <string name="retry">
+        Rever
+    </string>
+    <string name="none">
+        Ninguna
+    </string>
+    <string name="home">
+        Casa
+        <!-- return to main screen -->
+    </string>
+    <string name="save">
+        Salvar
+    </string>
+    <string name="delete">
+        Borrar
+    </string>
+    <string name="delete_all">
+        Eliminar todos
+    </string>
+    <string name="select">
+        Seleccionar
+    </string>
+    <string name="please">
+        Por favor
+    </string>
+    <string name="return_word">
+        Regreso
+    </string>
+    <string name="next">
+        Siguiente
+    </string>
+    <string name="back">
+        Espalda
+        <!-- move backwards -->
+    </string>
+    <string name="forward">
+        Adelante
+        <!-- move forwards -->
+    </string>
+    <string name="warning">
+        Advertencia
+    </string>
+    <string name="error">
+        Error
+    </string>
+    <string name="correct">
+        Correcto
+    </string>
+    <string name="open">
+        Abierto
+    </string>
+    <string name="close">
+        Cerca
+    </string>
+    <string name="camera">
+        Cámara
+    </string>
+    <string name="gallery">
+        Galería
+    </string>
+    <string name="defined">
+        definido
+    </string>
+    <string name="undefined">
+        Indefinido
+    </string>
+    <!-- General commands - end -->
+
+    <!-- omb and privacy statement - start -->
+    <string name="expiration_date">
+        Fecha de caducidad: 07/31/2016
+    </string>
+    <string name="ome_number">
+        OMB número: 0925-0612
+    </string>
+    <string name="burden_statement">
+        CARGA DECLARACIÓN
+        \nLa carga pública para esta recopilación de información se estima en un promedio de 3
+        minutos por respuesta. Esta estimación incluye el tiempo para revisar las instrucciones,
+        la recolección y la introducción de datos. Una agencia no puede realizar o patrocinar, y una
+        persona no es necesaria para responder a una solicitud de información a menos que muestre
+        un momento número de control válido. Los comentarios sobre el estimado de tiempo o cualquier
+        otro aspecto de esta recopilación de información, incluyendo sugerencias para reducir esta
+        carga,
+        a:
+        \n\tNIH,
+        \n\tProject Clearance Branch,
+        \n\t6705 Rockledge Drive, MSC 7974,
+        \n\tBethesda,
+        \n\tMD 20892-7974,
+        \n\tATTN: PRA (0925-0612).
+        \nNo devuelva el formulario completo a esta dirección.;
+    </string>
+    <string name="omb_notice">
+        Aviso
+    </string>
+    <string name="omb_submission">
+        Presentación de la información es de carácter voluntario. Toda la información presentada se
+        pondrá a disposición del público.
+    </string>
+    <string name="omb_text1">
+        La carga pública para esta recopilación de información se estima en un promedio de 3
+        minutos por respuesta. Esta estimación incluye el tiempo para revisar las instrucciones,
+        la recolección y la introducción de datos. Una agencia no puede realizar o patrocinar,
+        y una persona no está obligada a responder a una solicitud de información a menos que
+        muestre un número de control OMB válido. Los comentarios sobre el estimado de tiempo o
+        cualquier otro aspecto de esta recopilación de información, incluyendo sugerencias para
+        reducir esta carga, a:
+    </string>
+    <string name="omb_text2">
+        <!-- do not translate this line -->
+        ATTN: PRA (0925-0612) \nNIH Project Clearance Branch \n6705 Rockledge Drive MSC 7974
+        \nBethesda MD 20892-7974
+    </string>
+    <string name="omb_sub">
+        He leído y acepto esto
+    </string>
+    <string name="i_refuse">
+        Me reguse
+    </string>
+    <!-- omb and privacy statement - end -->
+
+    <!-- home screen - start -->
+    <string name="app_name">
+        <!-- do not need translate -->
+        ReUnite®
+    </string>
+    <string name="welcome">
+        Bienvenido
+    </string>
+    <string name="username">
+        Nombre de usuario
+    </string>
+    <string name="password">
+        Contraseña
+    </string>
+    <string name="login">
+        Conexión
+    </string>
+    <string name="logout">
+        Desconexión
+    </string>
+    <string name="login_or_logout">
+        Conexión/Desconexión
+    </string>
+    <string name="guest">
+        Huésped
+    </string>
+    <string name="login_was_successful">
+        Iniciar sesión fue un éxito
+    </string>
+    <string name="good_bye">
+        Adiós
+    </string>
+    <string name="you_are_now_a_developer">
+        Ahora eres un desarrollador!
+    </string>
+    <string name="web_server">
+        Servidor web
+    </string>
+    <string name="server_status">
+        Estado del servicio
+        <!-- online or offline, connected or dis-connected -->
+    </string>
+    <string name="check">
+        Comprobar
+    </string>
+    <string name="latency">
+        Estado latente
+        <!-- server response time -->
+    </string>
+    <string name="time_out">
+        Se acabó el tiempo
+    </string>
+    <string name="event">
+        Evento
+    </string>
+    <string name="change">
+        Cambio
+    </string>
+    <string name="date">
+        Fecha
+    </string>
+    <string name="event_location">
+        Lugar del evento
+    </string>
+    <string name="find">
+        Encontrar
+        <!-- find a missing person -->
+    </string>
+    <string name="report">
+        Informe
+        <!-- report a missong person -->
+    </string>
+    <string name="organize">
+        Organizar
+        <!-- organize files which saved in folders -->
+    </string>
+    <string name="do_you_want_to_login">
+        ¿Quieres entrar?
+    </string>
+    <string name="do_you_want_to_login_dis">
+        Como huésped , usted puede tener algunas funciones limitadas para su uso. Para iniciar
+        sesión es muy recomendable .
+    </string>
+    <!-- home screen - end -->
+
+    <!-- missing person list - start -->
+    <string name="filter">
+        Filtrar
+        <!-- make selections to narrow down the searching -->
+    </string>
+    <string name="name">
+        Nombre
+        <!-- search by input missing person's name -->
+    </string>
+    <string name="photo">
+        Foto
+        <!-- search by input missing person's photo -->
+    </string>
+    <string name="page">
+        Página
+    </string>
+    <string name="search">
+        Buscar
+    </string>
+    <string name="more">
+        Más
+        <!-- more to next page -->
+    </string>
+    <!-- missing person list - end -->
+
+    <!-- missing person information - start -->
+    <string name="draft">
+        Borrador
+        <!-- folder to save uncompleted records -->
+    </string>
+    <string name="send">
+        Enviar
+        <!-- command to send the report -->
+    </string>
+    <string name="primary_image">
+        Primario primaria
+        <!-- first image of a missing person -->
+    </string>
+    <string name="secondary_image">
+        Secondary Imagen
+        <!-- second or third, etc image of a missing person -->
+    </string>
+    <string name="press_button_on_right_side_to_add_caption">
+        ulse el botón en el lado derecho de añadir subtítulos
+        <!-- description -->
+    </string>
+    <string name="caption">
+        Subtítulo
+    </string>
+    <string name="missing_person_information">
+        Falta información de la persona
+    </string>
+    <string name="first_name">
+        Nombre de pila
+    </string>
+    <string name="last_name">
+        Apellido
+    </string>
+    <string name="other_names">
+        Otros nombres
+    </string>
+    <string name="age">
+        Años
+    </string>
+    <string name="gender">
+        Género
+    </string>
+    <string name="male">
+        Masculino
+    </string>
+    <string name="female">
+        Hembra
+    </string>
+    <string name="unknown">
+        Desconocido
+    </string>
+    <string name="complex">
+        Complejo
+    </string>
+    <string name="status">
+        Estado
+        <!-- missing person's status: missing, alive and well, injured, deceased, unknown or found -->
+    </string>
+    <string name="missing">
+        Desaparecido
+    </string>
+    <string name="alive_and_well">
+        Vivo y bien
+    </string>
+    <string name="injured">
+        Lesionado
+    </string>
+    <string name="deceased">
+        Fallecido
+    </string>
+    <string name="found">
+        Encontró
+    </string>
+    <string name="last_seen_location">
+        Última Ubicación visto
+    </string>
+    <string name="additional_details">
+        Detalles adicionales
+    </string>
+    <string name="missing_person_uuid">
+        La persona desaparecida UUID
+    </string>
+    <string name="last_updated_date">
+        Última actualización Fecha
+    </string>
+    <string name="follow">
+        Seguir
+    </string>
+    <string name= "why_follow_a_record">
+        ¿Por qué seguir un disco?
+    </string>
+    <string name="follow_record_des">
+        Para recibir un aviso por correo electrónico cuando este registro se actualiza con nueva
+        información , se puede seleccionar a siga esta persona. Sólo recibirá un correo electrónico
+        cuando el registro se actualiza con el nuevo información o cuando alguien deja un
+        comentario.
+    </string>
+    <string name="why_follow_record">
+        Para recibir alertas por email cuando este registro se actualiza con nueva información,
+        se puede optar por siga esta persona. Sólo recibirá un correo electrónico cuando el
+        registro se actualiza con el nuevo información o cuando alguien deja un comentario.
+    </string>
+    <!-- missing person information - end -->
+
+    <!-- Report missing person - start -->
+    <string name="input_by_right_side_button">
+        Entrada con el botón derecha
+    </string>
+    <string name="google_map_view">
+        Google mapa
+    </string>
+    <string name="gps_cannot_detect_current_location">
+        GPS no puede detectar la ubicación actual
+    </string>
+    <string name="let_gps_to_fill_your_address">
+        Dejar que su GPS para llenar su dirección
+    </string>
+    <string name="address_book_is_empty">
+        libreta de direcciones está vacía
+    </string>
+    <string name="select_from_adress_book">
+        Seleccione de la libreta de direcciones
+    </string>
+    <string name="street">
+        Calle
+    </string>
+    <string name="city">
+        Ciudad
+    </string>
+    <string name="state">
+        Estado
+    </string>
+    <string name="zip">
+        Cremallera
+    </string>
+    <string name="country">
+        País
+    </string>
+    <string name="comments">
+        comentarios
+    </string>
+    <string name="maximum_500_characters">
+        Máximo 500 caracteres
+    </string>
+    <string name="required_field">
+        campo requerido
+        <!-- the field that the user must input -->
+    </string>
+    <!-- Report missing person - end -->
+
+    <!-- Organize - start -->
+    <string name="lost_person_files">
+        Archivos persona perdida
+    </string>
+    <string name="file_found">
+        archivo encontrado
+    </string>
+    <string name="files_found">
+        archivos encontrados
+    </string>
+    <string name="no_file_is_found">
+        Ningún archivo se encuentra
+    </string>
+    <!-- Organize - end -->
+
+    <!-- web server latency - start -->
+    <string name="excellent">
+        Excelente
+    </string>
+    <string name="good">
+        Bueno
+    </string>
+    <string name="poor">
+        Pobre
+    </string>
+    <string name="disconnected">
+        Desconectado
+    </string>
+    <!-- web server latency - end -->
+
+    <!-- toast messages - start -->
+    <string name="this_option_is_not_available">
+        Esta opción no está disponible
+    </string>
+    <string name="all_photos_are_deleted">
+        Todas las fotos se borran
+    </string>
+    <string name="all_records_are_deleted">
+        Todos los registros se eliminan
+    </string>
+    <string name="email">
+        El correo electrónico
+    </string>
+    <string name="sending_email">
+        El envío de correo electrónico...
+    </string>
+    <string name="there_is_no_email_client_installed">
+        No hay cliente de correo electrónico instalado
+    </string>
+    <string name="html_file_is_empty">
+        El archivo HTML está vacía
+    </string>
+    <string name="done">
+        Hecho
+    </string>
+    <string name="canceled">
+        Cancelado
+    </string>
+    <string name="succeed">
+        Tener éxito
+    </string>
+    <string name="not_succeed">
+        Fracaso
+    </string>
+    <string name="completed">
+        Terminado
+    </string>
+    <string name="implemented">
+        Implementado
+    </string>
+    <string name="not_implemented">
+        No se ha implementado
+    </string>
+    <string name="no_record_is_found">
+        Ningún registro se encuentra
+    </string>
+    <string name="need_to_login">
+        Necesita conectar
+    </string>
+    <string name="no_photo">
+        No se han
+    </string>
+    <string name="no_photo_is_found">
+        No se han se encuentra
+    </string>
+    <string name="a_photo_is_selected">
+        Una foto se selecciona
+    </string>
+    <string name="moving_to_photo_number">
+        Pasando a la foto número
+    </string>
+    <string name="you_are_about_to_delete_all_the_photos_saved_in_cache">
+        Estás a punto de borrar todas las fotos guardadas en la memoria caché
+    </string>
+    <string name="are_you_sure_you_want_to_delete_the_selected_photo">
+        ¿Está seguro de que quiere borrar la foto seleccionada?
+    </string>
+    <string name="no_photo_is_selected_do_you_really_want_to_quit">
+        No se han se ha seleccionado. ¿Realmente quieres salir?
+    </string>
+    <string name="file_is_saved">
+        Archivo se guarda
+    </string>
+    <string name="report_abuse_and_its_explanation_are_sent">
+        Reportar el abuso y su explicación se envían
+    </string>
+    <string name="all_files_in_outbox_are_deleted">
+        Todos los archivos de la bandeja de salida se eliminan
+    </string>
+    <string name="searching_images_took_seconds">
+        Buscar imágenes tomaron segundos
+    </string>
+    <string name="google_authenticated_token_is_empty">
+        Google autenticado elemento está vacío
+    </string>
+    <!-- toast messages - end -->
+
+    <!-- dialogue box message - start -->
+    <string name="processing_please_wait">
+        Es procesando, por favor espera...
+    </string>
+    <string name="updating_the_status_please_wait">
+        Actualización del estado, por favor espere ...
+    </string>
+    <string name="retrieving_events_please_wait">
+        Recuperando eventos, por favor espere ...
+    </string>
+    <string name="retrieving_information_on_selected_event_please_wait">
+        Recuperación de la información en el evento seleccionado, por favor espere...
+    </string>
+    <string name="detecting_the_speed_please_wait">
+        La detección de la velocidad, por favor espere...
+    </string>
+    <string name="logging_in_please_wait">
+        Acceder al sistema, por favor espere...
+    </string>
+    <string name="saving_data_to_database_please_wait">
+        Guardar la información en la base de datos, por favor espere...
+    </string>
+    <string name="reporting_missing_person_please_wait">
+        Informes La persona desaparecida, por favor espere...
+    </string>
+    <string name="reporting_abuse_please_wait">
+        Informes el abuso, por favor espere...
+    </string>
+    <string name="loading_images_please_wait">
+        Cargando imágenes, por favor espere...
+    </string>
+    <string name="searching_the_selected_record_">
+        Busca el archivo persona seleccionada , por favor espere ...
+    </string>
+    <string name="un_flowing_all_the_records_please_wait">
+        Un-siguiendo todos los registros, por favor espere...
+    </string>
+    <string name="information_is_sent">
+        se envía la información
+    </string>
+    <string name="save_a_copy_to_device">
+        Guardar una copia en el dispositivo
+    </string>
+    <string name="registration_is_successful_">
+        El registro es un éxito ! Entra en la cuenta o encontrar más información de su 
+		correo electrónico
+    </string>
+    <string name="first_name_is_empty">
+        Nombre está vacío!
+    </string>
+    <string name="last_name_is_empty">
+        Apellido está vacía !
+    </string>
+    <string name="email_is_empty">
+        El correo electrónico es vacío!
+    </string>
+    <string name="username_is_empty">
+        Nombre de usuario está vacío!
+    </string>
+    <string name="password_is_empty">
+        Contraseña está vacío!
+    </string>
+    <string name="confirmation_password_is_empty">
+        La confirmación de contraseña está vacía!
+    </string>
+    <string name="two_passwords_are_not_identical">
+        Dos contraseñas no son idénticos.
+    </string>
+    <string name="password_requires_at_least_8_characters">
+        Contraseña requiere al menos 8 caracteres .
+    </string>
+    <string name="password_cannot_have_more_than_16_characters">
+        La contraseña no puede tener más de 16 caracteres .
+    </string>
+    <string name="password_must_have_at_least_one_uppercase_character">
+        La contraseña debe tener al menos un carácter en mayúscula 
+    </string>
+    <string name="password_must_have_at_least_one_lowercase_character">
+        La contraseña debe tener al menos un carácter en minúscula .
+    </string>
+    <string name="password_must_have_at_least_one_numeral">
+        La contraseña debe tener al menos un número ( 0-9 ) .
+    </string>
+    <string name="password_cannot_contain_your_username">
+        La contraseña no puede contener su nombre de usuario .
+    </string>
+    <string name="you_need_to_select_the_event">
+        Es necesario seleccionar el evento
+    </string>
+    <string name="do_you_want_to_delete_this_image">
+        ¿Quieres eliminar esta imagen ?
+    </string>
+    <string name="enter_exact_age_in_the_first_field_otherwise_use_both_fields_for_age_range">
+        Introduzca edad exacta en el primer campo , de otra forma utilizar los dos campos para 
+		la franja de edad .
+    </string>
+    <string name="as_a_guest_you_">
+        Como huésped , puede informar a una persona desaparecida de forma anónima . Pero Usted 
+		deberá algunas funciones limitadas .
+    </string>
+    <string name="are_you_sure_you">
+        ¿Está seguro de que quiere dejar el trabajo actual?
+    </string>
+    <string name="you_do_not_have_any_following_records">
+        No es necesario que todos los documentos siguientes
+    </string>
+    <string name="you_do_not_have_internet_connection">
+        Usted no tiene conexión a Internet
+    </string>
+    <string name="as_a_guest_you_may_report_">
+        Como huésped , usted puede reportar a una persona desaparecida de forma anónima. 
+		Pero usted tendrá funciones limitadas para su uso.
+	</string>
+    <string name="as_a_guest_you_may_have_">
+        Como huésped , es posible que tenga alguna función limitada para usar, Para 
+		iniciar sesión es muy recomendable.
+    </string>
+    <string name="change_is_made_">
+        El cambio se hizo. Por favor, reiniciar la aplicación.
+    </string>
+    <!-- dialogue box message - end -->
+
+    <!-- text shown on menu - start -->
+    <string name="social_media">
+        Medios de comunicación social
+    </string>
+    <string name="tutorials">
+        el Tutoriales
+    </string>
+    <string name="email_us">
+        Envíanos un correo electrónico
+    </string>
+    <string name="version_history">
+        Historial de versiones
+    </string>
+    <string name="cache">
+        Cache
+    </string>
+    <string name="clean_cache">
+        limpiar la caché
+    </string>
+    <string name="refresh">
+        Refrescar
+    </string>
+    <string name="email_html_file">
+        Archivo de correo electrónico HTML
+    </string>
+    <string name="developer_tools">
+        Herramientas de desarrollo
+    </string>
+    <string name="enter_username_and_password">
+        Introduzca nombre de usuario y contraseña
+    </string>
+    <string name="about">
+        Acerca de
+    </string>
+    <string name="report_abuse">
+        Reportar abuso
+    </string>
+    <string name="update_image">
+        actualización de la imagen
+    </string>
+    <string name="get_male_name">
+        Obtener Nombre masculino
+    </string>
+    <string name="get_female_name">
+        Obtener Nombre Femenino
+    </string>
+    <string name="notification">
+        Notificación
+    </string>
+    <string name="show_omb">
+        Espectáculo OMB
+    </string>
+    <string name="future_developments">
+        Desarrollos futuros
+    </string>
+    <string name="display_gcm_token">
+        Espectáculo GCM simbólico
+    </string>
+    <string name="gcm_token_upload_status">
+        GCM simbólico Estado de subida
+    </string>
+    <string name="send_gcm_message">
+        Enviar mensaje GCM
+    </string>
+    <string name="email_gcm_token">
+        GCM correo electrónico de emergencia
+    </string>
+    <string name="select_web_server">
+        Seleccionar servidor Web
+    </string>
+    <!-- text shown on menu - end -->
+</resources>
 
