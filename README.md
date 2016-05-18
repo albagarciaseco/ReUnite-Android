@@ -52,4 +52,5 @@ Ignore the tags, you will only need to translate the second line text (message b
 6. To complete the process and submit the proposed change(s) upstream, click the "Create Pull Request" button. This is the final step and what sends the changes you are proposing to our developers to incorporate in to our product. Again, adding a description of the changes is optional here, but recommended.
 
 Happy translating! Thank you very much!
+
 Zhirong Li
