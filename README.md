@@ -1,9 +1,8 @@
 # ReUnite-Android
+Android version of ReUnite
 Supporting multiple languages
 
 English (BASE), Spanish, French, Hindi, Tamil, Urdu, Vietnamese, Mandarin / China, Mandarin / Taiwan
-
-internationalization (i18n) libraries for the Taupo project
 
 If you would like to help us by proposing a translation then please follow the below steps...
 
@@ -37,18 +36,20 @@ Locale File	Language
 
 In the example string translation below we see one particular string's:
 
-msg-id: linkFollowUs
-message: Follow Us
-context: The text displayed for the Follow Us link.
+tag start with name: <stringt name="server_status>
+text to be translated: Server Status
+description: <!-- to display current server status: online or offline, connect or dis-connected --> 
+tag close: </string>
 
-If you feel that you can improve upon this translation, edit the word, phrase, or sentence contained in the message body. In this example, the only thing you should change is the message body which is highlighted in bold: Follow Us. You should not change anything else. The context here is provided to help you propose a better translation by offering a little more information on how, where, and what this particular translation (string) is used for.
+If you feel that you can improve upon this translation, edit the word, phrase, or sentence contained in the message body. In this example, the only thing you should change is the message body: Server Status. You should not change anything in this. The context here is provided to help you propose a better translation by offering a little more information on how, where, and what this particular translation (string) is used for.
 
     <string name="server_status">
-        Estado del servicio
+        Server Status
         <!-- online or offline, connected or dis-connected -->
     </string>
-    <string name="check">
-        Comprobar
+    <string name="search_missing_person">
+        Search missing person
+        <!-- function to search missing person -->
     </string>
 
 5. When finished with your proposed translation(s), click the “Propose file change” button below the editor. You can add a description of your changes in the description box if you would like; this is optional, but recommended.
