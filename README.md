@@ -53,4 +53,4 @@ Ignore the tags, you will only need to translate the second line text (message b
 
 Happy translating! Thank you very much!
 
-Zhirong Li
+Any questions? Please contact Zhirong Li
