@@ -34,31 +34,22 @@ Locale File	Language
 
 4. Make all suggested string / translation changes in the provided editor.
 
-In the example string translation below we see one particular string's:
-
-tag start with name: 
-
-<string name="server_status">
-</string>
-
-text to be translated: Server Status
-description: <!-- to display current server status: online or offline, connect or dis-connected -->
-tag close: </string>
-
-If you feel that you can improve upon this translation, edit the word, phrase, or sentence contained in the message body. In this example, the only thing you should change is the message body: Server Status. You should not change anything in this. The context here is provided to help you propose a better translation by offering a little more information on how, where, and what this particular translation (string) is used for.
+In the following example string translation below we see two particular string's:
 
     <string name="server_status">
         Server Status
         <!-- online or offline, connected or dis-connected -->
     </string>
+
     <string name="search_missing_person">
         Search missing person
-        <!-- function to search missing person -->
     </string>
+
+Ignore the tags, you will only need to translate the second line text (message body). Please feel free that you can improve upon this translation, edit the word, phase, or sentence contained in the message bocy. The third line is the description. Some may ommit description as the tag name says it all.
 
 5. When finished with your proposed translation(s), click the “Propose file change” button below the editor. You can add a description of your changes in the description box if you would like; this is optional, but recommended.
 
 6. To complete the process and submit the proposed change(s) upstream, click the "Create Pull Request" button. This is the final step and what sends the changes you are proposing to our developers to incorporate in to our product. Again, adding a description of the changes is optional here, but recommended.
 
-Happy translating!
-// Z
+Happy translating! Thank you very much!
+Zhirong Li
