@@ -39,11 +39,10 @@ In the example string translation below we see one particular string's:
 tag start with name: 
 
 <string name="server_status">
-</string>
 
 text to be translated: Server Status
-description: &lt!-- to display current server status: online or offline, connect or dis-connected --&gt
-tag close: &lt/string&gt
+description: <!-- to display current server status: online or offline, connect or dis-connected -->
+tag close: </string>
 
 If you feel that you can improve upon this translation, edit the word, phrase, or sentence contained in the message body. In this example, the only thing you should change is the message body: Server Status. You should not change anything in this. The context here is provided to help you propose a better translation by offering a little more information on how, where, and what this particular translation (string) is used for.
 
