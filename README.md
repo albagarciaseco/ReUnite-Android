@@ -39,6 +39,7 @@ In the example string translation below we see one particular string's:
 tag start with name: 
 
 <string name="server_status">
+</string>
 
 text to be translated: Server Status
 description: <!-- to display current server status: online or offline, connect or dis-connected -->
