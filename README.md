@@ -36,7 +36,11 @@ Locale File	Language
 
 In the example string translation below we see one particular string's:
 
-tag start with name: &lt stringt name="server_status &gt
+tag start with name: 
+
+<string name="server_status">
+</string>
+
 text to be translated: Server Status
 description: &lt!-- to display current server status: online or offline, connect or dis-connected --&gt
 tag close: &lt/string&gt
