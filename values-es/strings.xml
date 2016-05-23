@@ -82,6 +82,9 @@
     <string name="undefined">
         Indefinido
     </string>
+    <string name="language">
+    	Idioma
+    </string>
     <!-- General commands - end -->
 
     <!-- omb and privacy statement - start -->
