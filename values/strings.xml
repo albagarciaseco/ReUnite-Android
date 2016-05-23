@@ -82,6 +82,9 @@
     <string name="undefined">
         Undefined
     </string>
+    <string name="language">
+    	Language
+    </string>
     <!-- General commands - end -->
 
     <!-- omb and privacy statement - start -->
