@@ -1125,6 +1125,30 @@
         <!-- No valid token -->
         no válido token
     </string>
+    <string name="slide_to_move_page">
+        <!-- Slide to move page -->
+        Diapositiva para mover página
+    </string>
+    <string name="tutorial_on_the_starting_page">
+        <!-- Tutorial on the starting page -->
+        Tutorial en la página de inicio
+    </string>
+    <string name="tutorial_on_rules_of_user_registration">
+        <!-- Tutorial on rules of user registration -->
+        Tutorial sobre las normas de registro de usuarios
+   </string>
+    <string name="tutorial_on_finding_a_missing_person">
+        <!-- Tutorial on finding a missing person -->
+        Tutorial sobre cómo encontrar a una persona desaparecida
+    </string>
+    <string name="tutorial_on_reporting_a_missing_person">
+        <!-- Tutorial on reporting a missing person -->
+        Tutorial sobre la presentación de informes a una persona desaparecida
+    </string>
+    <string name="tutorial_on_managing_files_in_sent_saved_draft_and_outbox">
+        <!-- Tutorial on managing files in sent, saved, draft and outbox -->
+        Tutorial sobre la gestión de los archivos de Enviado, Outbox, Borrador y la bandeja de salida
+    </string>
 
     <!-- to be translated - start -->
     <string name="privacy_statement_title">PRIVACY STATEMENT</string>
