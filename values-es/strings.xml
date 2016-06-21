@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--                                -->
+    <!-- 1st part of translations       -->
+    <!-- updated based on Laritza' copy -->
+    <!-- start                          -->
+
     <!-- General commands - start -->
     <string name="ok">
         De acuerdo
@@ -31,6 +36,9 @@
     </string>
     <string name="delete">
         Borrar
+    </string>
+    <string name="delete_q">
+        Borrar?
     </string>
     <string name="delete_all">
         Eliminar todos
@@ -108,12 +116,12 @@
         \n\tATTN: PRA (0925-0612).
         \nNo devuelva el formulario completo a esta dirección.;
     </string>
-	
     <string name="omb_notice">
         Aviso
     </string>
     <string name="omb_submission">
-        La presentación de la información es de carácter voluntario. Toda la información presentada queda a disposición del público.
+        Presentación de la información es de carácter voluntario. Toda la información presentada se
+        pondrá a disposición del público.
     </string>
     <string name="omb_text1">
         La carga administrativa  para la recopilación de información se estima en un promedio de 3
@@ -214,7 +222,8 @@
         ¿Quieres entrar?
     </string>
     <string name="do_you_want_to_login_dis">
-        Como huésped algunas funciones son limitadas. Se recomienda ingresar a la aplicación con nombre de usuario y contraseña para mejor funcionalidad.
+        Como huésped , usted puede tener algunas funciones limitadas para su uso. Para iniciar
+        sesión es muy recomendable .
     </string>
     <!-- home screen - end -->
 
@@ -332,7 +341,7 @@
         Seguir
     </string>
     <string name= "why_follow_a_record">
-        ¿Por qué seguir un informe?
+        ¿Por qué seguir un disco?
     </string>
     <string name="follow_record_des">
         Para recibir  aviso por correo electrónico cuando este registro se actualiza con nueva
@@ -355,7 +364,8 @@
     <string name="gps_cannot_detect_current_location">
         GPS no puede detectar la ubicación actual
     </string>
-    <string name="let_gps_to_fill_your_address">
+    <string name="let_gps_fill_your_address">
+        <!-- Let GPS fill your address -->
         Dejar que su GPS para llenar su dirección
     </string>
     <string name="address_book_is_empty">
@@ -365,7 +375,7 @@
         Seleccione una entrada de la libreta de direcciones
     </string>
     <string name="street">
-        Dirección 
+        Dirección
     </string>
     <string name="city">
         Ciudad
@@ -588,7 +598,7 @@
     <string name="password_must_have_at_least_one_lowercase_character">
         La contraseña debe tener al menos una letra en minúscula .
     </string>
-    <string name="password_must_have_at_least_one_numeral">
+    <string name="password_must_have_at_least_one_numeral_">
         La contraseña debe tener al menos un número ( 0-9 ) .
     </string>
     <string name="password_cannot_contain_your_username">
@@ -699,5 +709,428 @@
         Seleccionar servidor Web
     </string>
     <!-- text shown on menu - end -->
-</resources>
 
+    <!-- error codes - start -->
+    <string name="plusError1">
+        Error: Nombre de usuario o contraseña inválidos
+        <!-- "context": "Error message presented when a user provides the incorrect username and/or password." -->
+    </string>
+    <string name="plusError2">
+        Error: la cuenta está bloqueada temporalmente por uso repetido de nombre de usuario o contraseña erróneos, intente más tarde
+        <!-- "context": "Error message presented when a user fails to login repeatedly." -->
+    </string>
+    <string name="plusError6">
+        Error: un usuario ya existe con la dirección de correo electrónico proporcionada
+        <!-- "context": "Error message presented when user tries to use an email address already in use." -->
+    </string>
+    <string name="plusError7">
+        Error: el nombre de usuario que ha proporcionado no está disponible
+        <!-- "context": "Error message presented when a user attempts to register with a username that is already in use by another user." -->
+    </string>
+    <string name="plusError8">
+        Error: la dirección de correo electrónico no es válida
+        <!-- "context": "Error message presented when a user provides an invalid email address." -->
+    </string>
+    <string name="plusError9">
+        Error: la contraseña debe tener 8-16 caracteres de longitud, debe tener al menos una letra mayúscula, una minúscula y un carácter numérico
+        <!-- "context": "Error message presented when user enters an invalid password." -->
+    </string>
+    <string name="plusError11">
+        Error: la dirección de correo electrónico proporcionada no está asociada con ninguna cuenta de usuario
+        <!-- "context": "Error message presented when user attempts to reset password with an unregistered email address-->
+    </string>
+    <string name="plusError14">
+        Error: resultado de la prueba de validación humana incorrecta, por favor vuelva a cargar la página
+        <!-- "context": "Error message presented when the captcha system encounters invalid data-->
+    </string>
+    <string name="plusError15">
+        Error: sesión reCaptcha caducada, por favor vuelva a cargar la página
+        <!-- "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue-->
+    </string>
+    <string name="plusError16">
+        Error: contraseñas no coinciden
+        <!-- "context": "Error message presented when entered password do not match one another-->
+    </string>
+    <string name="plusError20">
+        Error: la contraseña debe tener 8-16 caracteres de longitud
+        <!-- "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long-->
+    </string>
+    <string name="plusError21">
+        Error: la contraseña debe contener al menos una letra mayúscula (A-Z)
+        <!-- "context": "Error message presented when entered password does not contain at least one uppercase letter-->
+    </string>
+    <string name="plusError22">
+        Error: la contraseña debe contener al menos una letra en minúscula (a-z)
+        <!-- "context": "Error message presented when entered password does not contain at least one lowercase letter-->
+    </string>
+    <string name="plusError23">
+        Error: la contraseña debe contener al menos un número (0-9)
+        <!-- "context": "Error message presented when entered password does not contain at least one digit-->
+    </string>
+    <string name="plusError100">
+        Error de red. Por favor verifique su conexión e intente de nuevo.
+        <!-- "context": "Error message presented when there is a network / internet issue-->
+    </string>
+    <string name="plusError600">
+        Error: No se puede seguir un registro que no existe o no tiene privilegio de acceso
+        <!-- "context": "Error message presented when user attempts to follow a record they have no permission to access-->
+    </string>
+    <string name="plusError601">
+        Error: No se puede seguir este registro, ya lo está siguiendo
+        <!-- "context": "Error message presented when attempting to follow a record the user is already following-->
+    </string>
+    <string name="plusError602">
+        Error: No se puede dejar de seguir este registro ya que no están actualmente siguiendolo
+        <!-- "context": "Error message presented when "-->
+    </string>
+    <string name="plusError9999">
+        Un error desconocido ha ocurrido.
+    </string>
+    <!-- error codes - end -->
+
+    <!-- end                            -->
+    <!-- 1st part of translations       -->
+    <!-- updated based on Laritza' copy -->
+    <!--                                -->
+
+    <!--                                          -->
+    <!-- 2nd part of translations                 -->
+    <!-- to be translated and verified by Laritza -->
+    <!-- start                                    -->
+
+    <string name="quit">
+        Dejar
+    </string>
+    <string name="select_language">
+        Select Language
+    </string>
+    <string name="offline">
+        Desconectado
+    </string>
+    <string name="connected">
+        Conectado
+    </string>
+    <string name="follow_record">
+        seguir un disco
+    </string>
+    <string name="follow_nothing">
+        Siguiendo nadag
+    </string>
+    <string name="no_follow">
+        No seguir
+    </string>
+    <string name="logout_first">
+        Cerrar sesión primero
+    </string>
+    <string name="undetected">
+        Si no se detecta
+    </string>
+    <string name="address_book">
+        Directorio
+    </string>
+    <string name="enter_a_name_">
+        Introduzca un nombre en el cuadro de búsqueda. Utilizar el asterisco (*) para que coincida con cualquier grupo de caracteres.
+    </string>
+    <string name="example">
+        Ejemplo
+    </string>
+    <string name="are_you_sure_q">
+        ¿Estás seguro?
+    </string>
+    <string name="input_empty_error_code">
+        Código de error entrada de vacío
+    </string>
+    <string name="show_password">
+        Mostrar contraseña
+    </string>
+    <string name="forgot_q">
+        ¿Olvidó?
+    </string>
+    <string name="forgot_username">
+        Olvidó nombre de usuario
+    </string>
+    <string name="forgot_password">
+        Olvidó su contraseña
+    </string>
+    <string name="new_user">
+        Nuevo usuario
+    </string>
+    <string name="please_enter_your_username_and_password">
+        Por favor ingrese su usuario y contraseña
+    </string>
+    <string name="forgot_your_username_q">
+    <!-- Forgot your username? Please enter your e-mail address, we will send information back to you shortly-->
+        ¿Olvidaste tu usuario? Por favor ingrese su dirección de correo electrónico, le enviaremos información a usted poco
+    </string>
+    <string name="submit">
+        <!-- Submit -->
+        Someter
+    </string>
+    <string name="email_address_is_sent">
+        <!-- Email address is sent -->
+        La dirección de correo electrónico es enviada
+    </string>
+    <string name="forgot_your_password_q">
+        <!-- Forgot your password? Please enter your e-mail address, we will send information back to you shortly-->
+        ¿Olvidaste tu contraseña? Por favor ingrese su dirección de correo electrónico, le enviaremos información a usted poco
+    </string>
+    <string name="register_as_a_new_user">
+        <!-- Register as a new user -->
+        Registro como un nuevo usuario
+    </string>
+    <string name="passwords_must_adhere_">
+        <!-- Passwords must adhere to the following rules -->
+        Las contraseñas deben cumplir con las siguientes reglas
+    </string>
+    <string name="re_enter_password">
+        <!-- Re-enter password -->
+        Vuelva a introducir contraseña
+    </string>
+    <string name="register">
+        Registro
+    </string>
+    <string name="child_0_17">
+        Niño (01-17)
+    </string>
+    <string name="adult_18_plus">
+        Adulto (18+)
+    </string>
+    <string name="view_persons_with">
+        <!-- View persons with -->
+        Vea a personas con
+    </string>
+    <string name="photo_only">
+        <!-- photo only -->
+        foto sólo
+    </string>
+    <string name="both_recommended">
+        <!-- both - recommended -->
+        ambos - recomendado
+    </string>
+    <string name="number_of_records_per_load">
+            <!-- Number of records per load -->
+        Número de registros por carga
+    </string>
+    <string name="_5_seconds">
+        <!-- 5 seconds -->
+        5 segundos
+    </string>
+    <string name="_10_seconds">
+        <!-- 10 seconds -->
+        10 segundos
+    </string>
+    <string name="_10_seconds_recommended">
+        <!-- 10 seconds - recommended -->
+        10 segundos - recomendado
+    </string>
+    <string name="_15_seconds">
+        <!-- 15 seconds -->
+        15 segundos
+    </string>
+    <string name="_15_seconds_recommended">
+        15 segundos - recomendado
+    </string>
+    <string name="_20_seconds">
+        <!-- 20 seconds -->
+        20 segundos
+    </string>
+    <string name="tap_right_button_to_add_photo_caption">
+        <!-- Tap right button to add photo caption -->
+        Pulse el botón derecho para agregar pie de foto
+    </string>
+    <string name="open_for_reporting">
+        <!-- Open for reporting -->
+        Abierta para la presentación de informes
+    </string>
+    <string name="closed_reporting">
+        <!-- Closed reporting -->
+        Cerrada la presentación de informes
+    </string>
+    <string name="you_have_selected">
+        <!-- You have selected -->
+        Usted ha seleccionado
+    </string>
+    <string name="start">
+        <!-- Start -->
+        Comience
+    </string>
+    <string name="no_photo_is_selected">
+        <!-- No photo is selected -->
+        No ha seleccionado ninguna foto
+    </string>
+    <string name="sent_box_is_empty">
+        <!-- Sent box is empty -->
+        El Sentbox es vacío
+    </string>
+    <string name="out_box_is_empty">
+        <!-- Outbox is empty -->
+        El Outbox es vacío
+    </string>
+    <string name="draft_box_is_empty">
+        <!-- Draft box is empty -->
+        El Draftbox es vacío
+    </string>
+    <string name="saved_box_is_empty">
+        <!-- Saved box is empty -->
+        El Savedbox es vacío
+    </string>
+    <string name="all_boxes_is_empty">
+        <!-- All boxes are empty -->
+        Todas las cajas están vacías
+    </string>
+    <string name="sent">
+        <!-- Sent -->
+        Enviado
+    </string>
+    <string name="outbox">
+        <!-- Outbox -->
+        Outbox
+    </string>
+    <string name="saved_from_search">
+        <!-- Saved from search -->
+        Guardado en búsqueda
+    </string>
+    <string name="you_are_about_to_delete_all_files">
+        <!-- You are about to delete all files -->
+        Usted está a punto de borrar todos los archivos
+    </string>
+    <string name="all_files_are_deleted">
+        <!-- All files are deleted -->
+        Todos los archivos se eliminan
+    </string>
+    <string name="web_server_is_not_found">
+        <!-- Web server is not found -->
+        El servidor de web no es encontrado
+    </string>
+    <string name="this_file_was_downloaded_earlier_">
+        <!-- This file was downloaded earlier. It may not be the most updated. To see the most updated file, go back to home and try \"Find\" command again -->
+        Este archivo se descargó anteriormente. Puede que no sea la más actualizada. Para ver el archivo más actualizada, volver a casa y tratar \"Buscar\" comando de nuevo
+    </string>
+    <string name="you_are_an_anonymous_user">
+        <!-- You are an anonymous user -->
+        Usted es un usuario anónimo
+    </string>
+    <string name="saved">
+        <!-- Saved -->
+        Salvado
+    </string>
+    <string name="deleted">
+        <!-- Deleted -->
+        Suprimido
+    </string>
+    <string name="local_file_id">
+        <!-- Local file ID -->
+        ID de archivo local
+    </string>
+    <string name="there_is_only_one_photo">
+        <!-- There is only one photo -->
+        Hay sólo una foto
+    </string>
+    <string name="add_text">
+        <!-- Add text -->
+        Añadir texto
+    </string>
+    <string name="age_is_missing">
+        <!-- Age is missing -->
+        Edad falta
+    </string>
+    <string name="exceeds_maximum_age">
+        <!-- Exceeds maximum age -->
+        Supera la edad máxima
+    </string>
+    <string name="error_in_age">
+        <!-- Error in age -->
+        Error en edad
+    </string>
+    <string name="error_in_event">
+        <!-- Error in event -->
+        Error en evento
+    </string>
+    <string name="error_in_gender">
+        <!-- Error in gender -->
+        Error en género
+    </string>
+    <string name="error_in_status">
+        <!-- Error in status -->
+        Error en estado
+    </string>
+    <string name="no_data_returned">
+        <!-- No data returned -->
+        No se obtuvieron datos
+    </string>
+    <string name="updated">
+        <!-- Updated -->
+        Actualizado
+    </string>
+    <string name="updating_the_persons_information_please_wait_dots">
+        <!-- Uploading the person's information, please wait... -->
+        Subir información de la persona, por favor espere...
+    </string>
+    <string name="is_sent">
+        <!-- is sent -->
+        es enviado
+    </string>
+    <string name="is_not_sent">
+        <!-- is not sent -->
+        no se envía
+    </string>
+    <string name="is_saved">
+        <!-- is saved -->
+        es salvado
+    </string>
+    <string name="no_permission">
+        <!-- No permission -->
+        Sin autorización
+    </string>
+    <string name="you_are_about_to_delete_this_file">
+        <!-- You are about to delete this file -->
+        Usted está a punto de borrar este archivo
+    </string>
+    <string name="uuid_is_missing">
+        <!-- UUID is missing -->
+        UUID falla
+    </string>
+    <string name="permission_is_denied">
+        <!-- Permission is denied -->
+        Permiso es denegado
+    </string>
+    <string name="subscribe_to_email_updates">
+        <!-- Subscribe to email updates -->
+        Suscribirse a las actualizaciones por correo electrónico
+    </string>
+    <string name="no_valid_token">
+        <!-- No valid token -->
+        no válido token
+    </string>
+
+    <!-- to be translated - start -->
+    <string name="privacy_statement_title">PRIVACY STATEMENT</string>
+    <string name="privacy_statement_content">
+        The U.S. National Library of Medicine (NLM), part of the U.S. Department of Health and Human Services,
+        has in its mission the development of communication systems technology to improve the delivery of health information.
+        The Reunite app is designed to speed uploading necessary personal information about missing (and found)
+        people to NLM\'s People Locator (PL) service available at https://pl.nlm.nih.gov.
+        This service being provided for the explicit purpose of assisting in post-disaster family reunification as well as
+        studying the utility of such tools in responding to disasters. More information on the PL service and
+        the Lost Person Finder Project can be found at http://lpf.nlm.nih.gov\nNote:
+        \n\t* Submission of information using this app is voluntary.
+        \n\t* All submitted information may be made publicly available.
+        \n\t* Data stored using this tool may not be moderated and could be searchable by all visitors to NLM\'s PL Web site.
+        \n\t* Data stored within the app is not encrypted at this time.
+        \n\t* The user of this app must have a PL service account to upload information about missing or found people.
+        \n\t* No PL login is necessary to search the site.
+        \n\t* Information reported on an individual and sender\'s provided contact information may be disseminated to other
+              Government agencies or other institutions assisting the reunification efforts after any disaster where U.S. Government relief efforts are being provided.
+        \n\t* For missing person data provided following a disaster: If you hear from the person you are concerned about,
+              please follow instructions at the PL Web Site to update their status.
+        \n\t* The application does not track user location.
+        \n\t* User location is detected on explicit user action to aid address lookup.
+    </string>
+    <!-- to be translated - end -->
+
+    <!--                                          -->
+    <!-- 2nd part of translations                 -->
+    <!-- to be translated and verified by Laritza -->
+    <!-- start                                    -->
+
+</resources>
