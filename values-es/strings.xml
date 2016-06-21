@@ -799,63 +799,83 @@
     <!-- start                                    -->
 
     <string name="quit">
+        <!-- Quite -->
         Dejar
     </string>
     <string name="select_language">
-        Select Language
+        <!-- Select Language -->
+        Seleccione el idioma
     </string>
     <string name="offline">
+        <!-- Offline -->
         Desconectado
     </string>
     <string name="connected">
+        <!-- Connected -->
         Conectado
     </string>
     <string name="follow_record">
+        <!-- Follow record -->
         seguir un disco
     </string>
     <string name="follow_nothing">
+        <!-- Follow nothing -->
         Siguiendo nadag
     </string>
     <string name="no_follow">
+        <!-- No follow -->
         No seguir
     </string>
     <string name="logout_first">
+        <!-- Logout first -->
         Cerrar sesión primero
     </string>
     <string name="undetected">
+        <!-- Undetected -->
         Si no se detecta
     </string>
     <string name="address_book">
+        <!-- Address book -->
         Directorio
     </string>
     <string name="enter_a_name_">
+        <!-- Enter a name in the search box. Use the asterisk (*) to match any group of characters. -->
         Introduzca un nombre en el cuadro de búsqueda. Utilizar el asterisco (*) para que coincida con cualquier grupo de caracteres.
     </string>
     <string name="example">
+        <!-- Example -->
         Ejemplo
     </string>
     <string name="are_you_sure_q">
+        <!-- Are you sure? -->
         ¿Estás seguro?
     </string>
     <string name="input_empty_error_code">
+        <!-- Input empty error code -->
         Código de error entrada de vacío
     </string>
     <string name="show_password">
+        <!-- Show password -->
         Mostrar contraseña
     </string>
     <string name="forgot_q">
+        <!-- Forgot ? -->
         ¿Olvidó?
     </string>
     <string name="forgot_username">
+        <!-- Forgot username -->
         Olvidó nombre de usuario
     </string>
     <string name="forgot_password">
+        <!-- Forgot password -->
         Olvidó su contraseña
     </string>
     <string name="new_user">
+        <!-- New user -->
         Nuevo usuario
     </string>
     <string name="please_enter_your_username_and_password">
+        <!-- Please enter your username and password -->
         Por favor ingrese su usuario y contraseña
     </string>
     <string name="forgot_your_username_q">
@@ -887,12 +907,15 @@
         Vuelva a introducir contraseña
     </string>
     <string name="register">
+        <!-- Register -->
         Registro
     </string>
     <string name="child_0_17">
-        Niño (01-17)
+        <!-- Child (0-17) -->
+        Niño (0-17)
     </string>
     <string name="adult_18_plus">
+        <!-- Adult (18+) -->
         Adulto (18+)
     </string>
     <string name="view_persons_with">
