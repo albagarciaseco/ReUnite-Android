@@ -1150,25 +1150,30 @@
     </string>
 
     <!-- to be translated - start -->
-    <string name="privacy_statement_title">PRIVACY STATEMENT</string>
-    PRIVACIDAD
-    <string name="privacy_statement_content">
-        La Biblioteca Nacional de EE.UU. de Medicina (NLM), parte del Departamento de Salud y Servicios Humanos de EE.UU., tiene en su misión el desarrollo de la tecnología de los sistemas de comunicación para mejorar la difusion de información acerca de la salud. La aplicación ReUnite está diseñada para acelerar el reporte de  información personal necesaria de personas desaparecidas o encontradas durante un evento catastrófico al servicio People Finder (PL) de la NLM que a su vez está disponible en https://pl.nlm.nih.gov. Este servicio se proporciona con el propósito explícito de ayudar a la reunificación de la familia después de un desastre, así como el estudio de la utilidad de este tipo de herramientas en la respuesta a los desastres. Más información sobre el servicio PL y el People Finder de personas desaparecidas se puede encontrar en http: //lpf.nlm.nih.gov
-
-		Nota:
-		• El envio de información a través de esta aplicación es voluntaria •
-		• Toda la información presentada es visible al público.
-		• Los datos almacenados usando esta herramienta no son monitorizados y pueden  ser consultados por todos los visitantes al sitio web de PL de la NLM.
-		• Los datos almacenados dentro de la aplicación no son cifrados.
-		• Para el ingreso de datos los usuarios de esta aplicación deben tener una cuenta en el sitio PL
-		• No es necesario ingresar al sitio PL para hacer las búsquedas  
-		• Tenga en cuenta que toda la información contenida en la aplicación es difundida a otras agencias gubernamentales u otras instituciones que asisten a los esfuerzos de reunificación después de cualquier desastre donde se están proporcionando los esfuerzos de ayuda.
-		• En casos de personas desaparecidas que son encontradas siga las instrucciones de la aplicación PL para actualizar la información.
-		• Ni la aplicación, ni los funcionarios del NLM realizan seguimiento de ubicación del usuario
-		• La ubicación se detecta por la interacción del usuario con el dispositivo al activar la búsqueda por direcciones en la aplicación.
-
-
+    <string name="privacy_statement_title">
+    	<!-- PRIVACY STATEMENT -->
+    	PRIVACIDAD
     </string>
+    <string name="privacy_statement_content">
+      La Biblioteca Nacional de EE.UU. de Medicina (NLM), parte del Departamento de Salud y Servicios Humanos de EE.UU., tiene en su misión el desarrollo
+      de la tecnología de los sistemas de comunicación para mejorar la difusion de información acerca de la salud. La aplicación ReUnite está diseñada para acelerar
+      el reporte de  información personal necesaria de personas desaparecidas o encontradas durante un evento catastrófico al servicio People Finder (PL) de la NLM
+      que a su vez está disponible en https://pl.nlm.nih.gov. Este servicio se proporciona con el propósito explícito de ayudar a la reunificación de
+      la familia después de un desastre, así como el estudio de la utilidad de este tipo de herramientas en la respuesta a los desastres. Más información sobre el
+      servicio PL y el People Finder de personas desaparecidas se puede encontrar en http: //lpf.nlm.nih.gov
+      \nNota:
+      \n\t• El envio de información a través de esta aplicación es voluntaria.
+      \n\t• Toda la información presentada es visible al público.
+      \n\t• Los datos almacenados usando esta herramienta no son monitorizados y pueden  ser consultados por todos los visitantes al sitio web de PL de la NLM.
+      \n\t• Los datos almacenados dentro de la aplicación no son cifrados.
+      \n\t• Para el ingreso de datos los usuarios de esta aplicación deben tener una cuenta en el sitio PL
+      \n\t• No es necesario ingresar al sitio PL para hacer las búsquedas  
+      \n\t• Tenga en cuenta que toda la información contenida en la aplicación es difundida a otras agencias gubernamentales u otras instituciones
+      que asisten a los esfuerzos de reunificación después de cualquier desastre donde se están proporcionando los esfuerzos de ayuda.
+      \n\t• En casos de personas desaparecidas que son encontradas siga las instrucciones de la aplicación PL para actualizar la información.
+      \n\t• Ni la aplicación, ni los funcionarios del NLM realizan seguimiento de ubicación del usuario
+      \n\t• La ubicación se detecta por la interacción del usuario con el dispositivo al activar la búsqueda por direcciones en la aplicación.
+  </string>
 
     <!--                                        -->
     <!-- 2nd part of translations               -->
