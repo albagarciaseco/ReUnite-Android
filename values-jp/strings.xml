@@ -95,8 +95,8 @@
     <!-- General commands - end -->
 
     <!-- omb and privacy statement - start -->
-    <string name="expiration_date">
-        有効期限: 07/31/2016
+    <string name="expiration_date_1st_part">
+        有効期限:
     </string>
 <string name="ome_number">
         OMB番号: 0925-0612
@@ -149,10 +149,6 @@
     <!-- omb and privacy statement - end -->
 
     <!-- home screen - start -->
-<string name="app_name">
-        ReUniteAR
-        <!-- do not need translate -->
-    </string>
 <string name="welcome">
         ようこそ
     </string>
@@ -293,8 +289,8 @@
     <string name="other_names">
         Other Names
     </string>
-    <string name="age">
-        年齢
+    <string name="approximate_age">
+        おおよその年齢
     </string>
     <string name="gender">
         性別
@@ -1065,7 +1061,9 @@ GCMの印の更新状態
 送信、保存、ドラフト、送信済みボックスのファイルの取り扱いの仕方
 </string>
 
-<string name="privacy_statement_title">PRIVACY STATEMENT</string>
+<string name="privacy_statement_title">
+    プライバシーに関する声明
+</string>
 <string name="privacy_statement_content">
         米国国立医学図書館 (NLM), 米国保健福祉省の一部
         健康情報の提供を改善するコミュニケーションシステム技術の開発ミッション
@@ -1118,7 +1116,6 @@ GCMの印の更新状態
     <!--                -->
     <!-- 3rd part start -->
     <!--                -->
-
 <string name="in_order_to_use_this_app_">
         このアプリケーションを使用する為には、プライバシー宣言を受け入れる必要があります。考え直しますか？
     </string>
@@ -1128,8 +1125,30 @@ GCMの印の更新状態
 <string name="update">
         更新
     </string>
-
     <!--              -->
     <!-- 3rd part end -->
+    <!--              -->
+
+    <!--                -->
+    <!-- 4th part start -->
+    <!--                -->
+    <string name="permission_is_granted_">
+        <!-- Permission is granted. Now you can try again. -->
+        権限が承認されました。もう一度、試すことができます。
+    </string>
+    <string name="permission_is_denied_">
+        <!-- Permission was denied. Please consider granting it in order to access the data! -->
+        権限がありません。データにアクセスする為には、権限を承認してもらってください。
+    </string>
+    <string name="message_checking_permission_">
+        <!-- Checking permission... -->
+        権限をチェックしています。
+    </string>
+    <string name="message_requesting_permission_">
+        <!-- Requesting permission... -->
+        権限をリクエストしています。
+    </string>
+    <!--              -->
+    <!-- 4th part end -->
     <!--              -->
 </resources>
