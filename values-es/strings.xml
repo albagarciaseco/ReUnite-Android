@@ -96,18 +96,20 @@
     <!-- General commands - end -->
 
     <!-- omb and privacy statement - start -->
-    <string name="expiration_date">
-        Fecha de caducidad: 07/31/2016
-    </string>
-    <string name="ome_number">
+    <string name="expiration_date_1st_part">
+        Fecha de caducidad:
+    </string>    <string name="ome_number">
         OMB número: 0925-0612
     </string>
     <string name="burden_statement">
         DECLARACIONN DE CARGA ADMINISTRATIVA
         \nLa carga administrativa  para la recopilación de información se estima en un promedio de 3
-        minutos por respuesta. Este cálculo incluye el tiempo necesario para revisar las instrucciones,la recolección y la introducción de datos. Las agencias no deben respaldar ni patrocinar respuestas , ni las personas deben responder a una solicitud de información a menos que exista un número de control válido (OMB).
-		Envie comentarios sobre el cálculo de tiempo o cualquier otro aspecto de esta recopilación de información, incluyendo sugerencias para reducir el trabajo requerido a:
-
+        minutos por respuesta. Este cálculo incluye el tiempo necesario para revisar las instrucciones,
+        la recolección y la introducción de datos. Las agencias no deben respaldar ni patrocinar respuestas , 
+        ni las personas deben responder a una solicitud de información a menos que exista un número de control válido (OMB).
+		Envie comentarios sobre el cálculo de tiempo o cualquier otro aspecto de esta recopilación de información, 
+        incluyendo sugerencias para reducir el trabajo requerido 
+        a:
 		\n\tNIH,
         \n\tProject Clearance Branch,
         \n\t6705 Rockledge Drive, MSC 7974,
@@ -120,7 +122,7 @@
         Aviso
     </string>
     <string name="omb_submission">
-        Presentación de la información es de carácter voluntario. Toda la información presentada se
+        La presentacion de la información es de carácter voluntario. Toda la información presentada se
         pondrá a disposición del público.
     </string>
     <string name="omb_text1">
@@ -129,9 +131,11 @@
     </string>
     <string name="omb_text2">
         <!-- do not translate this line -->
-        ATTN: PRA (0925-0612) \nNIH Project Clearance Branch \n6705 Rockledge Drive MSC 7974
-        \nBethesda MD 20892-7974
-		\n Por favor no envie el formulario a esta dirección
+        NIH, Project Clearance Branch, \n
+        6705 Rockledge Drive MSC 7974, \n
+        Bethesda MD 20892-7974, \n
+        ATTN: PRA (0925-0612). \n
+		Por favor no envie el formulario a esta dirección.
     </string>
     <string name="omb_sub">
         He leído y acepto
@@ -142,10 +146,6 @@
     <!-- omb and privacy statement - end -->
 
     <!-- home screen - start -->
-    <string name="app_name">
-        <!-- do not need translate -->
-        ReUnite
-    </string>
     <string name="welcome">
         Bienvenido
     </string>
@@ -287,8 +287,8 @@
     <string name="other_names">
         Otros nombres
     </string>
-    <string name="age">
-        Años
+    <string name="approximate_age">
+        Edad Aproximada
     </string>
     <string name="gender">
         Género
@@ -557,7 +557,7 @@
     <string name="information_is_sent">
         Información enviada
     </string>
-    <string name="save_a_copy_to_device">
+    <string name="save_a_copy_to_local">
         Guardar una copia en el dispositivo
     </string>
     <string name="registration_is_successful_">
@@ -616,7 +616,7 @@
         Como huesped , puede informar acerca de una persona desaparecida de forma anónima . Pero
 		algunas funciones serán limitadas .
     </string>
-    <string name="are_you_sure_you">
+    <string name="are_you_sure_you_want_to_quite_current_work_q">
         Está seguro de que quiere dejar el trabajo actual?
     </string>
     <string name="you_do_not_have_any_following_records">
@@ -996,7 +996,7 @@
         <!-- Saved box is empty -->
         La bandeja de correos guardados está vacia
     </string>
-    <string name="all_boxes_is_empty">
+    <string name="all_boxes_are_empty">
         <!-- All boxes are empty -->
         Todas las bandejas están vacias
     </string>
@@ -1151,8 +1151,8 @@
 
     <!-- to be translated - start -->
     <string name="privacy_statement_title">
-    	<!-- PRIVACY STATEMENT -->
-    	PRIVACIDAD
+        <!-- PRIVACY STATEMENT -->
+        PRIVACIDAD
     </string>
     <string name="privacy_statement_content">
       La Biblioteca Nacional de EE.UU. de Medicina (NLM), parte del Departamento de Salud y Servicios Humanos de EE.UU., tiene en su misión el desarrollo
@@ -1162,18 +1162,39 @@
       la familia después de un desastre, así como el estudio de la utilidad de este tipo de herramientas en la respuesta a los desastres. Más información sobre el
       servicio PL y el People Finder de personas desaparecidas se puede encontrar en http: //lpf.nlm.nih.gov
       \nNota:
-      \n\t• El envio de información a través de esta aplicación es voluntaria.
-      \n\t• Toda la información presentada es visible al público.
-      \n\t• Los datos almacenados usando esta herramienta no son monitorizados y pueden  ser consultados por todos los visitantes al sitio web de PL de la NLM.
-      \n\t• Los datos almacenados dentro de la aplicación no son cifrados.
-      \n\t• Para el ingreso de datos los usuarios de esta aplicación deben tener una cuenta en el sitio PL
-      \n\t• No es necesario ingresar al sitio PL para hacer las búsquedas  
-      \n\t• Tenga en cuenta que toda la información contenida en la aplicación es difundida a otras agencias gubernamentales u otras instituciones
-      que asisten a los esfuerzos de reunificación después de cualquier desastre donde se están proporcionando los esfuerzos de ayuda.
-      \n\t• En casos de personas desaparecidas que son encontradas siga las instrucciones de la aplicación PL para actualizar la información.
-      \n\t• Ni la aplicación, ni los funcionarios del NLM realizan seguimiento de ubicación del usuario
-      \n\t• La ubicación se detecta por la interacción del usuario con el dispositivo al activar la búsqueda por direcciones en la aplicación.
-  </string>
+    </string>
+    <string name="ps_note_01">
+        El envio de información a través de esta aplicación es voluntaria.
+    </string>
+    <string name="ps_note_02">
+        Toda la información presentada es visible al público.
+    </string>
+    <string name="ps_note_03">
+        Los datos almacenados usando esta herramienta no son monitorizados y pueden  ser consultados por todos los visitantes al sitio web de PL de la NLM.
+    </string>
+    <string name="ps_note_04">
+        Los datos almacenados dentro de la aplicación no son cifrados.
+    </string>
+    <string name="ps_note_05">
+        Para el ingreso de datos los usuarios de esta aplicación deben tener una cuenta en el sitio PL
+    </string>
+    <string name="ps_note_06">
+        No es necesario ingresar al sitio PL para hacer las búsquedas.
+    </string>
+    <string name="ps_note_07">
+        Tenga en cuenta que toda la información contenida en la aplicación es difundida a otras agencias gubernamentales
+        u otras instituciones que asisten a los esfuerzos de reunificación después de cualquier desastre donde se están
+        proporcionando los esfuerzos de ayuda.
+    </string>
+    <string name="ps_note_08">
+        En casos de personas desaparecidas que son encontradas siga las instrucciones de la aplicación PL para actualizar la información.
+    </string>
+    <string name="ps_note_09">
+        Ni la aplicación, ni los funcionarios del NLM realizan seguimiento de ubicación del usuario.
+    </string>
+    <string name="ps_note_10">
+        La ubicación se detecta por la interacción del usuario con el dispositivo al activar la búsqueda por direcciones en la aplicación.
+    </string>
 
     <!--                                        -->
     <!-- 2nd part of translations               -->
@@ -1192,10 +1213,26 @@
         <!-- Saving data to database, please wait... -->
         Guardar datos a la base de datos, por favor espere...
     </string>
-
+    <string name="update">
+        <!-- Update -->
+        Actualización
+    </string>
 
     <!--              -->
     <!-- 3rd part end -->
+    <!--              -->
+
+    <!--                -->
+    <!-- 4th part start -->
+    <!--                -->
+
+    <string name="permission_is_granted_">Se concede permiso, ahora usted puede intentar otra vez.</string>
+    <string name="permission_is_denied_">El permiso fue denegado. Por favor considerar la concesión con el fin de acceder a los datos!</string>
+    <string name="message_checking_permission_">Comprobación de permisos...</string>
+    <string name="message_requesting_permission_">Solicitando permiso...</string>
+
+    <!--              -->
+    <!-- 4th part end -->
     <!--              -->
 
 </resources>
