@@ -1,707 +1,1134 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--                -->
+    <!-- 1st part start -->
+    <!--                -->
+
     <!-- General commands - start -->
     <string name="ok">
         OK
     </string>
     <string name="cancel">
-        Cancel
+        取消
     </string>
     <string name="yes">
-        Yes
+        是的
     </string>
     <string name="no">
-        No
+        沒有
     </string>
     <string name="continue_word">
-        Continue
+        繼續
     </string>
     <string name="retry">
-        Retry
+        重試
     </string>
     <string name="none">
-        None
+        沒有
     </string>
     <string name="home">
-        Home
+        首頁
         <!-- return to main screen -->
     </string>
     <string name="save">
-        Save
+        保存
     </string>
     <string name="delete">
-        Delete
+        刪除
+    </string>
+    <string name="delete_q">
+        刪除嗎?
     </string>
     <string name="delete_all">
-        Delete All
+        刪除所有
     </string>
     <string name="select">
-        Select
+        選擇
     </string>
     <string name="please">
-        Please
+        請
     </string>
     <string name="return_word">
-        Return
+        返回
     </string>
     <string name="next">
-        Next
+        下壹個
     </string>
     <string name="back">
-        Back
+        返回
         <!-- move backwards -->
     </string>
     <string name="forward">
-        Forward
+        前進
         <!-- move forwards -->
     </string>
     <string name="warning">
         Warning
     </string>
     <string name="error">
-        Error
+        錯誤
     </string>
     <string name="correct">
-        Correct
+        正確
     </string>
     <string name="open">
-        Open
+        打開
     </string>
     <string name="close">
-        Close
+        關閉
     </string>
     <string name="camera">
-        Camera
+       照相機
     </string>
     <string name="gallery">
-        Gallery
+        畫廊
     </string>
     <string name="defined">
-        Defined
+        定義
     </string>
     <string name="undefined">
-        Undefined
+        未定義
+    </string>
+    <string name="language">
+    	英語
     </string>
     <!-- General commands - end -->
 
     <!-- omb and privacy statement - start -->
-    <string name="expiration_date">
-        Expiration date: 07/31/2016
+    <string name="expiration_date_1st_part">
+        截止日期: 07/31/2016
     </string>
     <string name="ome_number">
-        OMB number: 0925-0612
-    </string>
-    <string name="burden_statement">
-        BURDEN STATEMENT
-        \nPublic reporting burden for this collection of information is estimated to average 3
-        minutes per response. This estimate includes the time for reviewing instructions,
-        gathering, and entering  data. An agency may not conduct or sponsor, and a person is not
-        required to respond to, a collection of information unless it displays a currently
-        valid OMB control number. Send comments regarding this burden estimate or any other aspect
-        of this collection of information, including suggestions for reducing this burden,
-        to:
-        \n\tNIH,
-        \n\tProject Clearance Branch,
-        \n\t6705 Rockledge Drive, MSC 7974,
-        \n\tBethesda,
-        \n\tMD 20892-7974,
-        \n\tATTN: PRA (0925-0612).
-        \nDo not return the completed form to this address.&quot;
+        OMB編號: 0925-0612
     </string>
     <string name="omb_notice">
-        Notice
+        註意
     </string>
     <string name="omb_submission">
-        Submission of information is voluntary. All submitted information will be made 
-		publicly available.
+        上傳信息都是個人自願行為，所上傳的信息全部都將向公眾全部公開。
     </string>
     <string name="omb_text1">
-        Public reporting burden for this collection of information is estimated to average 3 
-		minutes per response. This estimate includes the time for reviewing instructions, 
-		gathering, and entering data. An agency may not conduct or sponsor, and a person is 
-		not required to respond to, a collection of information unless it displays a currently 
-		valid OMB control number.
-        Send comments regarding this burden estimate or any other aspect of this collection of 
-		information, including suggestions for reducing this burden, to:
+        公眾從輸入信息開始到完成提交報告，大約需要三分鐘。這三分鐘裏，包括了查看指令，收集和輸入數據所需的時間。
+        除非標有美國行政管理和預算局(OMB)的有效編號，任何部門不得組織，或資助搜集此類信息，任何個人也無須而為。
+        如果妳有任何有關提交報告所需時間，或者任何有關搜集信息的建議，請送:
     </string>
     <string name="omb_text2">
-        ATTN: PRA (0925-0612) 
-		\nNIH Project Clearance Branch 
-		\n6705 Rockledge Drive MSC 7974 
-		\nBethesda MD 20892-7974
         <!-- do not translate this line -->
+        NIH, Project Clearance Branch, \n
+        6705 Rockledge Drive MSC 7974, \n
+        Bethesda MD 20892-7974, \n
+        ATTN: PRA (0925-0612). \n
+		Do not return the completed form to this address.
     </string>
     <string name="omb_sub">
-        I have read this and agree
+        我已經閱讀本文，並同意
     </string>
     <string name="i_refuse">
-        I Refuse
+        我拒絕
     </string>
     <!-- omb and privacy statement - end -->
 
     <!-- home screen - start -->
-    <string name="app_name">
-        ReUnite®
-        <!-- do not need translate -->
-    </string>
     <string name="welcome">
-        Welcome
+        歡迎
     </string>
     <string name="username">
-        Username
+        用戶名
     </string>
     <string name="password">
-        Password
+        密碼
     </string>
     <string name="login">
-        Login
+        登錄
     </string>
     <string name="logout">
-        Logout
+        退出
     </string>
     <string name="login_or_logout">
-        Login/Logout
+        登錄/退出
     </string>
     <string name="guest">
-        Guest
+        客人
     </string>
     <string name="login_was_successful">
-        Login was successful
+       登錄成功
     </string>
     <string name="good_bye">
-        Good bye
+        再見
     </string>
     <string name="you_are_now_a_developer">
-        You are now a developer!
+        妳現在是壹名軟件開發人員！
     </string>
     <string name="web_server">
-        Web Server
+        網絡服務器
     </string>
     <string name="server_status">
-        Service Status
+        服務器狀態
         <!-- online or offline, connected or dis-connected -->
     </string>
     <string name="check">
-        Check
+        檢查
     </string>
     <string name="latency">
-        Latency
+        延遲時間
         <!-- server response time -->
     </string>
     <string name="time_out">
-        Time out
+        超時
     </string>
     <string name="event">
-        Event
+        事件
     </string>
     <string name="change">
-        Change
+        更改
     </string>
     <string name="date">
-        Date
+        日期
     </string>
     <string name="event_location">
-        Event Location
+        事件
     </string>
     <string name="find">
-        Find
+        尋找
         <!-- find a missing person -->
     </string>
     <string name="report">
-        Report
+        報告
         <!-- report a missong person -->
     </string>
     <string name="organize">
-        Organize
+        文件夾
         <!-- organize files which saved in folders -->
     </string>
     <string name="do_you_want_to_login">
-        Do you want to login?
+        您想要登錄嗎？
     </string>
     <string name="do_you_want_to_login_dis">
-        As a guest, you may have some limited functions to use. To login is highly suggested.
+        作為客人，您只能使用壹些有限的功能。強烈建議登錄。
     </string>
     <!-- home screen - end -->
 
     <!-- missing person list - start -->
     <string name="filter">
-        Filter
+        過濾器
         <!-- make selections to narrow down the searching -->
     </string>
     <string name="name">
-        Name
+        名稱
         <!-- search by input missing person's name -->
     </string>
     <string name="photo">
-        Photo
+        照片
         <!-- search by input missing person's photo -->
     </string>
     <string name="page">
-        Page
+        頁
     </string>
     <string name="search">
-        Search
+        搜索
     </string>
     <string name="more">
-        More
+        更多
         <!-- more to next page -->
     </string>
     <!-- missing person list - end -->
 
     <!-- missing person information - start -->
     <string name="draft">
-        Draft
+        草稿
         <!-- folder to save uncompleted records -->
     </string>
     <string name="send">
-        Send
+        發送
         <!-- command to send the report -->
     </string>
     <string name="primary_image">
-        Primary Image
+        主照片
         <!-- first image of a missing person -->
     </string>
     <string name="secondary_image">
-        Secondary Image
+
         <!-- second or third, etc image of a missing person -->
     </string>
     <string name="press_button_on_right_side_to_add_caption">
-        Press button on right side to add caption
+        按下按鈕在右側添加題註
         <!-- description -->
     </string>
     <string name="caption">
-        Caption
+        標題
     </string>
     <string name="missing_person_information">
-        Missing Person Information
+        失蹤人信息
     </string>
     <string name="first_name">
-        First Name
+        名
     </string>
     <string name="last_name">
-        Last Name
+        姓
     </string>
     <string name="other_names">
-        Other Names
+        其他名稱
     </string>
-    <string name="age">
-        Age
+    <string name="approximate_age">
+        大概年齡
     </string>
     <string name="gender">
-        Gender
+        性別
     </string>
     <string name="male">
-        Male
+        男
     </string>
     <string name="female">
-        Female
+        女
     </string>
     <string name="unknown">
-        Unknown
+        未知
     </string>
     <string name="complex">
-        Complex
+        復雜
     </string>
     <string name="status">
-        Status
+        狀態
         <!-- missing person's status: missing, alive and well, injured, deceased, unknown or found -->
     </string>
     <string name="missing">
-        Missing
+        失蹤
     </string>
     <string name="alive_and_well">
-        Alive and Well
+        活著並安好
     </string>
     <string name="injured">
-        Injured
+        受傷
     </string>
     <string name="deceased">
-        Deceased
+
     </string>
     <string name="found">
-        Found
+        找到
     </string>
     <string name="last_seen_location">
-        Last Seen Location
+        最後看見的位置
     </string>
     <string name="additional_details">
-        Additional Details
+        更多詳細信息
     </string>
     <string name="missing_person_uuid">
-        Missing Person UUID
+        失蹤者UUID
     </string>
     <string name="last_updated_date">
-        Last Updated Date
+        上次更新日期
     </string>
     <string name="follow">
-        Follow
+        跟隨
     </string>
-    <string name= "why_follow_a_record">
-        Why follow a record?
+    <string name="why_follow_a_record">
+        為什麽要跟蹤記錄？
     </string>
     <string name="follow_record_des">
-        To receive email alert when this record is updated with new information, you can select to
-        follow this person. You will only receive an email when the record is updated with new
-        information or when someone leaves a comment.
+        選擇跟蹤此人，每當這個人有了新的消息後，您會收到電子郵件通知。每當有新的信息，或每當有人留新的評論，
+        本記錄便會更新，這時，您將能收到壹封電子郵件。
     </string>
     <string name="why_follow_record">
-        To receive email alerts when this record is updated with new information, you can elect to
-        follow this person. You will only receive an email when the record is updated with new
-        information or when someone leaves a comment.
+        選擇跟蹤此人，每當這個人有了新的消息後，您會收到電子郵件通知。每當有新的信息，或每當有人留新的評論，
+        本記錄便會更新，這時，您將能收到壹封電子郵件。
     </string>
     <!-- missing person information - end -->
 
     <!-- Report missing person - start -->
     <string name="input_by_right_side_button">
-        Input by right side button
+        通過右側按鈕輸入
     </string>
     <string name="google_map_view">
-        Google Map View
+       谷歌地圖視圖
     </string>
     <string name="gps_cannot_detect_current_location">
-        GPS cannot detect current location
+        GPS無法檢測當前位置
     </string>
-    <string name="let_gps_to_fill_your_address">
-        Let GPS to fill your address
+    <string name="let_gps_fill_your_address">
+        讓GPS自動填寫您的地址
     </string>
     <string name="address_book_is_empty">
-        Address book is empty
+        通訊簿是空的
     </string>
     <string name="select_from_adress_book">
-        Select from address book
+        從地址簿中選擇
     </string>
     <string name="street">
-        Street
+        街道
     </string>
     <string name="city">
-        City
+        城市
     </string>
     <string name="state">
-        State
+        州
     </string>
     <string name="zip">
-        Zip
+        郵編
     </string>
     <string name="country">
-        Country
+        國家
     </string>
     <string name="comments">
-        Comments
+        評論
     </string>
     <string name="maximum_500_characters">
-        Maximum 500 characters
+        最多500個字符
     </string>
     <string name="required_field">
-        Required field
+        必填項目
         <!-- the field that the user must input -->
     </string>
     <!-- Report missing person - end -->
 
     <!-- Organize - start -->
     <string name="lost_person_files">
-        Lost Person Files
+        失蹤人員文件
     </string>
     <string name="file_found">
-        file found
+        文件找到
     </string>
     <string name="files_found">
-        files found
+        文件找到
     </string>
     <string name="no_file_is_found">
-        No file is found
+        沒有找到文件
     </string>
     <!-- Organize - end -->
 
     <!-- web server latency - start -->
     <string name="excellent">
-        Excellent
+        優
     </string>
     <string name="good">
-        Good
+        好
     </string>
     <string name="poor">
-        Poor
+        差
     </string>
     <string name="disconnected">
-        Disconnected
+        斷開
     </string>
     <!-- web server latency - end -->
 
     <!-- toast messages - start -->
     <string name="this_option_is_not_available">
-        This option is not available
+        不可用此選項
     </string>
     <string name="all_photos_are_deleted">
-        All photos are deleted
+        所有照片都將被刪除
     </string>
     <string name="all_records_are_deleted">
-        All records are deleted
+        所有記錄都將被刪除
     </string>
     <string name="email">
-        Email
+       電子郵件
     </string>
     <string name="sending_email">
-        Sending email...
+        正在傳送電子郵件...
     </string>
     <string name="there_is_no_email_client_installed">
-        There is no email client installed
+        沒有安裝電子郵件客戶端
     </string>
     <string name="html_file_is_empty">
-        HTML file is empty
+        HTML文件是空的
     </string>
     <string name="done">
-        Done
+        完成
     </string>
     <string name="canceled">
-        Canceled
+        取消
     </string>
     <string name="succeed">
-        Succeed
+        成功
     </string>
     <string name="not_succeed">
-        Not succeed
+        失敗
     </string>
     <string name="completed">
-        Completed
+        已完成
     </string>
     <string name="implemented">
-        Implemented
+        已實施
     </string>
     <string name="not_implemented">
-        Not implemented
+        未能實現
     </string>
     <string name="no_record_is_found">
-        No record is found
+        未找到記錄
     </string>
     <string name="need_to_login">
-        Need to login
+        需要登錄
     </string>
     <string name="no_photo">
-        No photo
+        沒有照片
     </string>
     <string name="no_photo_is_found">
-        No photo is found
+        找不到照片
     </string>
     <string name="a_photo_is_selected">
-        A photo is selected
+        選擇壹張照片
     </string>
     <string name="moving_to_photo_number">
-        Moving to photo number
+        移動到照片編號
     </string>
     <string name="you_are_about_to_delete_all_the_photos_saved_in_cache">
-        You are about to delete all the photos saved in cache
+        您將要刪除保存在緩存中的所有照片
     </string>
     <string name="are_you_sure_you_want_to_delete_the_selected_photo">
-        Are you sure you want to delete the selected photo?
+        您確定要刪除所選的照片嗎？
     </string>
     <string name="no_photo_is_selected_do_you_really_want_to_quit">
-        No photo is selected. Do you really want to quit?
+        未選擇照片。妳真的想退出嗎？
     </string>
     <string name="file_is_saved">
-        File is saved
+        文件已保存
     </string>
     <string name="report_abuse_and_its_explanation_are_sent">
-        Report abuse and its explanation are sent
+        此記錄濫用，已發送報告並解釋原因
     </string>
     <string name="all_files_in_outbox_are_deleted">
-        All files in outbox are deleted
+        發件箱中的所有文件都刪除
     </string>
     <string name="searching_images_took_seconds">
-        Search images took seconds
+        搜索圖像費時
     </string>
     <string name="google_authenticated_token_is_empty">
-        Google authenticated token is empty
+        谷歌認證令牌是空
     </string>
     <!-- toast messages - end -->
 
     <!-- dialogue box message - start -->
     <string name="processing_please_wait">
-        Processing, please wait...
+        正在處理中，請稍候...
     </string>
     <string name="updating_the_status_please_wait">
-        Updating the status, please wait...
+        正在更新狀態，請稍候...
     </string>
     <string name="retrieving_events_please_wait">
-        Retrieving events, please wait...
+        正在檢索活動，請稍候...
     </string>
     <string name="retrieving_information_on_selected_event_please_wait">
-        Retrieving information on selected event, please wait...
+        正在檢索所選事件的相關資訊，請稍候...
     </string>
     <string name="detecting_the_speed_please_wait">
-        Detecting the speed, please wait...
+        正在檢測速度，請稍候...
     </string>
     <string name="logging_in_please_wait">
-        Logging in, please wait...
+        正在登錄，請稍候...
     </string>
     <string name="saving_data_to_database_please_wait">
-        Saving data to database, please wait...
-	</string>
+        正在將數據保存到數據庫，請稍候...
+    </string>
     <string name="reporting_missing_person_please_wait">
-        Reporting missing person, please wait...
+        正在報告失蹤的人的信息，請稍候...
     </string>
     <string name="reporting_abuse_please_wait">
-        "Reporting abuse, please wait...
+        正在舉報濫用，請稍候...
     </string>
     <string name="loading_images_please_wait">
-        Loading images, please wait...
+        正在載入圖像，請稍候...
     </string>
     <string name="searching_the_selected_record_">
-        Searching the selected missing person file, please wait...
+        正在搜索所選失蹤人的文件，請稍候...
     </string>
     <string name="un_flowing_all_the_records_please_wait">
-        Un-following all the records, please wait...
+        正在取消跟蹤所有記錄，請稍候...
     </string>
     <string name="information_is_sent">
-        Information is sent
+        發送信息
     </string>
-    <string name="save_a_copy_to_device">
-        Save a copy to device
+    <string name="save_a_copy_to_local">
+        將副本保存到本
     </string>
     <string name="registration_is_successful_">
-        Registration is successful! Please login or find more information from your email
+        註冊成功！請登錄或從您的電子郵件中找到更多信息
     </string>
     <string name="first_name_is_empty">
-        First name is empty!
+        名字壹欄空缺！　　　　
     </string>
     <string name="last_name_is_empty">
-        Last name is empty!
+        姓名壹欄空缺!
     </string>
     <string name="email_is_empty">
-        Email is empty!
+        電子郵件壹欄空缺！
     </string>
     <string name="username_is_empty">
-        Username is empty!
+        用戶名壹欄空缺！
     </string>
     <string name="password_is_empty">
-        Password is empty!
+        密碼壹欄空缺！
     </string>
     <string name="confirmation_password_is_empty">
-        Confirmation password is empty!
+        確認密碼壹欄空缺
     </string>
     <string name="two_passwords_are_not_identical">
-        Two passwords are not identical.
+        兩個密碼不相同。
     </string>
     <string name="password_requires_at_least_8_characters">
-        Password requires at least 8 characters.
+        密碼至少需要8個字符。
     </string>
     <string name="password_cannot_have_more_than_16_characters">
-        Password cannot have more than 16 characters.
+        密碼不能超過16個字符。
     </string>
     <string name="password_must_have_at_least_one_uppercase_character">
-        Password must have at least one uppercase character.
+        密碼必須至少包含壹個大寫字符。
     </string>
     <string name="password_must_have_at_least_one_lowercase_character">
-        Password must have at least one lowercase character.
+        密碼必須至少包含壹個小寫字符。
     </string>
-    <string name="password_must_have_at_least_one_numeral">
-        Password must have at least one numeral (0-9).
+    <string name="password_must_have_at_least_one_numeral_">
+        密碼必須至少有壹個數字（0-9）。
     </string>
     <string name="password_cannot_contain_your_username">
-        Password cannot contain your username.
+        密碼不能包含您的用戶名。
     </string>
     <string name="you_need_to_select_the_event">
-        You need to select the event
+        您需要選擇事件
     </string>
     <string name="do_you_want_to_delete_this_image">
-        Do you want to delete this image?
-    </string>
-    <string name="enter_exact_age_in_the_first_field_otherwise_use_both_fields_for_age_range">
-        Enter exact age in the first field, other wise use both fields for age range.
+        您要刪除此圖片嗎？
     </string>
     <string name="as_a_guest_you_">
-        As a guest, you can report a missing person anonymously. But you wil have some limited 
-		functions.
+        作為壹個客人，妳可以匿名報告失蹤的人。但是妳只有壹些有限的功能.
     </string>
-    <string name="are_you_sure_you">
-        Are you sure you want to quit current work?
+    <string name="are_you_sure_you_want_to_quite_current_work_q">
+        妳確定想退出當前的工作嗎？
     </string>
     <string name="you_do_not_have_any_following_records">
-        You do not have any following records
+        您沒有任何跟蹤記錄
     </string>
     <string name="you_do_not_have_internet_connection">
-        You do not have internet connection
+        您沒有互聯網連接
     </string>
     <string name="as_a_guest_you_may_report_">
-        As a guest, you may report a missing person anonymously. But you will have limited 
-		functions to use.
+        作為訪客，您可以匿名舉報失蹤人員。但妳只有有限的功能使用。
     </string>
     <string name="as_a_guest_you_may_have_">
-        As a guest, you may have some limited function to use, To login is highly suggested.
+        作為壹個客，您可能使用壹些有限的功能，強烈建議登錄。
     </string>
     <string name="change_is_made_">
-        Change is made. Please restart the APP.
+        更改完成。請重新啟動APP。
     </string>
     <!-- dialogue box message - end -->
 
     <!-- text shown on menu - start -->
     <string name="social_media">
-        Social Media
+        社交媒體
     </string>
     <string name="tutorials">
-        Tutorials
+        教程
     </string>
     <string name="email_us">
-        Email Us
+        給我們發電子郵件
     </string>
     <string name="version_history">
-        Version History
+        版本歷史
     </string>
     <string name="cache">
         Cache
     </string>
     <string name="clean_cache">
-        Clean Cache
+        清理緩存
     </string>
     <string name="refresh">
-        Refresh
+        刷新
     </string>
     <string name="email_html_file">
-        Email HTML File
+        電子郵件HTML文件
     </string>
     <string name="developer_tools">
-        Developer Tools
+        開發人員工具
     </string>
     <string name="enter_username_and_password">
-        Enter Username and Password
+        輸入用戶名和密碼
     </string>
     <string name="about">
-        About
+        關於
     </string>
     <string name="report_abuse">
-        Report Abuse
+        報告濫用
     </string>
     <string name="update_image">
-        Update Image
+        更新圖像
     </string>
     <string name="get_male_name">
-        Get Male Name
+        獲取男性名稱
     </string>
     <string name="get_female_name">
-        Get Female Name
+        獲取女性姓名
     </string>
     <string name="notification">
-        Notification
+        通知
     </string>
     <string name="show_omb">
-        Show OMB
+        顯示OMB
     </string>
     <string name="future_developments">
-        Future Developments
+        未來發展
     </string>
     <string name="display_gcm_token">
-        Display GCM Token
+        顯示GCM令牌
     </string>
     <string name="gcm_token_upload_status">
-        GCM Token Upload Status
+        GCM令牌上傳狀態
     </string>
     <string name="send_gcm_message">
-        Send GCM Message
+        發送GCM消息
     </string>
     <string name="email_gcm_token">
-        Email GCM Token
+        電子郵件GCM令牌
     </string>
     <string name="select_web_server">
-        Select Web Server
+        選擇Web服務器
     </string>
     <!-- text shown on menu - end -->
+
+    <!-- error codes - start -->
+    <string name="plusError1">
+        錯誤：無效用戶名或密碼
+        <!-- "context": "Error message presented when a user provides the incorrect username and/or password." -->
+    </string>
+    <string name="plusError2">
+        錯誤：由於登錄多次失敗，您的帳戶暫時鎖定，請稍後再試
+        <!-- "context": "Error message presented when a user fails to login repeatedly." -->
+    </string>
+    <string name="plusError6">
+        Error: a user already exists with provided the provided email address
+        錯誤：此用戶及此用戶所提供的電子郵箱地址已存在.
+        <!-- "context": "Error message presented when user tries to use an email address already in use." -->
+    </string>
+    <string name="plusError7">
+        錯誤：您提供的用戶名無效　
+        <!-- "context": "Error message presented when a user attempts to register with a username that is already in use by another user." -->
+    </string>
+    <string name="plusError8">
+        錯誤：電子郵件地址無效
+        <!-- "context": "Error message presented when a user provides an invalid email address." -->
+    </string>
+    <string name="plusError9">
+        錯誤：密碼必須是8-16個字符，必須至少有壹個大寫字母，壹個小寫字母和壹個數字字符
+        <!-- "context": "Error message presented when user enters an invalid password." -->
+    </string>
+    <string name="plusError11">
+        錯誤：提供的電子郵件地址與任何用戶帳戶沒有關聯
+        <!-- "context": "Error message presented when user attempts to reset password with an unregistered email address-->
+    </string>
+    <string name="plusError14">
+        錯誤：人類驗證測試結果錯誤，請刷新當前頁面
+        <!-- "context": "Error message presented when the captcha system encounters invalid data-->
+    </string>
+    <string name="plusError15">
+        錯誤：驗證碼會話過期，請重新加載該頁面
+        <!-- "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue-->
+    </string>
+    <string name="plusError16">
+        錯誤：密碼不匹配
+        <!-- "context": "Error message presented when entered password do not match one another-->
+    </string>
+    <string name="plusError20">
+        錯誤：密碼必須是 8-16 個字符長
+        <!-- "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long-->
+    </string>
+    <string name="plusError21">
+        錯誤：密碼必須至少包含壹個大寫字母（A-Z）
+        <!-- "context": "Error message presented when entered password does not contain at least one uppercase letter-->
+    </string>
+    <string name="plusError22">
+        錯誤：密碼必須至少包含壹個小寫字母（a-z）
+        <!-- "context": "Error message presented when entered password does not contain at least one lowercase letter-->
+    </string>
+    <string name="plusError23">
+        錯誤：密碼必須至少包含壹個數字（0-9）
+        <!-- "context": "Error message presented when entered password does not contain at least one digit-->
+    </string>
+    <string name="plusError100">
+        網絡錯誤。請檢查您的連接，然後重試。
+        <!-- "context": "Error message presented when there is a network / internet issue-->
+    </string>
+    <string name="plusError600">
+        錯誤：無法跟蹤您的記錄, 您的記錄不存在或您沒有訪問權限
+        <!-- "context": "Error message presented when user attempts to follow a record they have no permission to access-->
+    </string>
+    <string name="plusError601">
+        錯誤：不能跟蹤此記錄，因為您現在已經在跟蹤此記錄
+        <!-- "context": "Error message presented when attempting to follow a record the user is already following-->
+    </string>
+    <string name="plusError602">
+        錯誤：不能取消跟蹤此記錄，因為當前您還沒有跟蹤它
+        <!-- "context": "Error message presented when "-->
+    </string>
+    <string name="plusError9999">
+        出現未知錯誤。
+    </string>
+    <!-- error codes - end -->
+
+    <!--              -->
+    <!-- 1st part end -->
+    <!--              -->
+
+    <!--                -->
+    <!-- 2nd part start -->
+    <!--                -->
+
+    <!-- new - start -->
+    <string name="quit">
+        退出
+    </string>
+    <string name="select_language">
+        選擇語言
+    </string>
+    <string name="offline">
+        離線
+    </string>
+    <string name="connected">
+        連接的
+    </string>
+    <string name="follow_record">
+        跟蹤記錄
+    </string>
+    <string name="follow_nothing">
+        沒有跟蹤
+    </string>
+    <string name="no_follow">
+        沒有跟蹤
+    </string>
+    <string name="logout_first">
+        首先註銷
+    </string>
+    <string name="undetected">
+        未檢測
+    </string>
+    <string name="address_book">
+        地址簿
+    </string>
+    <string name="enter_a_name_">
+        在搜索框中輸入壹個名稱，使用星號（*）來匹配任何字符組。
+    </string>
+    <string name="example">
+        示例
+    </string>
+    <string name="are_you_sure_q">
+        您是否確定？
+    </string>
+    <string name="input_empty_error_code">
+        輸入空誤代碼
+    </string>
+    <string name="show_password">
+        顯示密碼
+    </string>
+    <string name="forgot_q">
+        忘了？
+    </string>
+    <string name="forgot_username">
+        忘了用戶名
+    </string>
+    <string name="forgot_password">
+        忘記了密碼
+    </string>
+    <string name="new_user">
+        新用戶
+    </string>
+    <string name="please_enter_your_username_and_password">
+        請輸入您的用戶名和密碼
+    </string>
+    <string name="forgot_your_username_q">
+        忘記了妳的用戶名？請輸入您的電子郵件地址，我們會盡快將信息發送給您
+    </string>
+    <string name="submit">
+        提交
+    </string>
+    <string name="email_address_is_sent">
+        電子郵件地址已發送
+    </string>
+    <string name="forgot_your_password_q">
+        忘記密碼了嗎？請輸入您的電子郵件地址，我們會盡快將信息發送給您
+    </string>
+    <string name="register_as_a_new_user">
+        註冊為新用戶
+    </string>
+    <string name="passwords_must_adhere_">
+        密碼必須遵守以下規則
+    </string>
+    <string name="re_enter_password">
+        重新輸入密碼
+    </string>
+    <string name="register">
+        登記
+    </string>
+    <string name="child_0_17">
+        兒童 (01-17)
+    </string>
+    <string name="adult_18_plus">
+        成人 (18+)
+    </string>
+    <string name="view_persons_with">
+        查看人
+    </string>
+    <string name="photo_only">
+        只有照片
+    </string>
+    <string name="both_recommended">
+        兩者 - 推薦
+    </string>
+    <string name="number_of_records_per_load">
+        每個加載的記錄數
+    </string>
+    <string name="_5_seconds">
+        5 秒
+    </string>
+    <string name="_10_seconds">
+        <!-- 10 seconds -->
+        10 秒
+    </string>
+    <string name="_10_seconds_recommended">
+        10 秒 - 推薦
+    </string>
+    <string name="_15_seconds">
+        15 秒
+    </string>
+    <string name="_15_seconds_recommended">
+        15 秒 - 推薦
+    </string>
+    <string name="_20_seconds">
+        20 秒
+    </string>
+    <string name="tap_right_button_to_add_photo_caption">
+        點擊右按鈕來添加圖片說明
+    </string>
+    <string name="open_for_reporting">
+        打開報告
+    </string>
+    <string name="closed_reporting">
+        關閉報告
+    </string>
+    <string name="you_have_selected">
+        您已選擇
+    </string>
+    <string name="start">
+        開始
+    </string>
+    <string name="no_photo_is_selected">
+        沒有選擇照片
+    </string>
+    <string name="sent_box_is_empty">
+        發送箱是空的
+    </string>
+    <string name="out_box_is_empty">
+        輸出箱是空的
+    </string>
+    <string name="draft_box_is_empty">
+        草稿箱是空的
+    </string>
+    <string name="saved_box_is_empty">
+        保存箱是空的
+    </string>
+    <string name="all_boxes_are_empty">
+        所有箱都是空的
+    </string>
+    <string name="sent">
+        發送箱
+    </string>
+    <string name="outbox">
+        輸出箱
+    </string>
+    <string name="saved_from_search">
+        從搜索中保存
+    </string>
+    <string name="you_are_about_to_delete_all_files">
+        您即將刪除所有文件
+    </string>
+    <string name="all_files_are_deleted">
+        所有文件都刪除
+    </string>
+    <string name="web_server_is_not_found">
+        找不到Web服務器
+    </string>
+    <string name="this_file_was_downloaded_earlier_">
+        此文件先前已下載。它可能不是最新的。要查看最更新的文件，請返回主頁，然後重試\"查找\"
+    </string>
+    <string name="you_are_an_anonymous_user">
+        您是匿名用戶
+    </string>
+    <string name="saved">
+        已保存
+    </string>
+    <string name="deleted">
+        已刪除
+    </string>
+    <string name="local_file_id">
+        本地文件ID
+    </string>
+    <string name="there_is_only_one_photo">
+        只有壹張照片
+    </string>
+    <string name="add_text">
+        添加文字
+    </string>
+    <string name="age_is_missing">
+        年齡缺失
+    </string>
+    <string name="exceeds_maximum_age">
+        超過最高年齡
+    </string>
+    <string name="error_in_age">
+        年齡錯誤
+    </string>
+    <string name="error_in_event">
+        事件錯誤
+    </string>
+    <string name="error_in_gender">
+        性別錯誤
+    </string>
+    <string name="error_in_status">
+       狀態錯誤
+    </string>
+    <string name="no_data_returned">
+        未返回任何數據
+    </string>
+    <string name="updated">
+        更新
+    </string>
+    <string name="updating_the_persons_information_please_wait_dots">
+        上傳親人的信息，請稍候...
+    </string>
+    <string name="is_sent">
+        已發送
+    </string>
+    <string name="is_not_sent">
+        不發送
+    </string>
+    <string name="is_saved">
+        已保存
+    </string>
+    <string name="no_permission">
+        沒有權限
+    </string>
+    <string name="you_are_about_to_delete_this_file">
+        您將要刪除此文件
+    </string>
+    <string name="uuid_is_missing">
+        缺少UUID
+    </string>
+    <string name="permission_is_denied">
+        權限被拒絕
+    </string>
+    <string name="subscribe_to_email_updates">
+        訂閱電子郵件更新
+    </string>
+    <string name="no_valid_token">
+        沒有有效的令牌
+    </string>
+    <string name="slide_to_move_page">
+        滑動移動頁面
+    </string>
+    <string name="tutorial_on_the_starting_page">
+        教程在起始頁
+    </string>
+    <string name="tutorial_on_rules_of_user_registration">
+        關於用戶註冊規程
+    </string>
+    <string name="tutorial_on_finding_a_missing_person">
+        關於尋找失蹤人員的教程
+    </string>
+    <string name="tutorial_on_reporting_a_missing_person">
+        關於報告失蹤人員的教程
+    </string>
+    <string name="tutorial_on_managing_files_in_sent_saved_draft_and_outbox">
+        有關發送，保存，草稿和發件箱中管理文件的教程
+    </string>
+
+    <string name="privacy_statement_title">隱私聲明</string>
+    <string name="privacy_statement_content">
+        美國國家醫學圖書館(NLM)，隸屬美國衛生和人類服務部，其使命在於發展通信系統技術，改善健康信息的傳遞。
+        ReUnite應用程序，旨在通過網址https://pl.nlm.nih.gov上NLM的People Locator(PL)服務，
+		快速傳遞有關失蹤（和尋獲)人員所需的信息。　
+        本項服務的目的，旨在幫助災害後家庭迅速團聚，以及研究此類工具在應對災害方面的效用。
+        更多有關PL服務和Lost Person Finder項目的信息，請訪問http //lpf.nlm.nih.gov。　
+        \n註意:
+    </string>
+    <string name="ps_note_01">
+        使用本應用程序提交信息，是自願的。
+    </string>
+    <string name="ps_note_02">
+        所有提交的信息都可以公開。
+    </string>
+    <string name="ps_note_03">
+        使用本應用程序存儲的數據，不受審核，並可供NLM的PL網站的用戶搜索。
+    </string>
+    <string name="ps_note_04">
+        存儲在本應用程序中的數據，目前未經加密。
+    </string>
+    <string name="ps_note_05">
+        使用本應用程序的用戶，必須申請PL的帳戶，才可以上傳有關人員失蹤或尋獲的消息。
+    </string>
+    <string name="ps_note_06">
+        如果僅是搜索網站，無需到PL登錄。
+    </string>
+    <string name="ps_note_07">
+		關於個人和發件人所提供的聯系信息，可能會送給政府有關部門，或社會上的其他機構，以幫助在災難之後，繼續尋找失蹤人員，幫助家庭團圓。
+    </string>
+    <string name="ps_note_08">
+        跟蹤事件，為失蹤人員提供此數據：如果妳所關註的失蹤人員，有了任何新情況，請按照說明，到PL的網站上更新他們的狀態。
+    </string>
+    <string name="ps_note_09">
+        本應用程序不會跟蹤用戶位置。
+    </string>
+    <string name="ps_note_10">
+		本應用程序使用顯式用戶操作位置方法，探測用戶當前的位置，目的僅是為了方便查找事件發生的地址。
+    </string>
+
+    <!--              -->
+    <!-- 2nd part end -->
+    <!--              -->
+
+    <!--                -->
+    <!-- 3rd part start -->
+    <!--                -->
+
+    <string name="in_order_to_use_this_app_">
+        為了使用這個程序，妳必須接受隱私聲明。您需要重新考慮嗎？
+    </string>
+    <string name="saving_data_to_database_please_wait_dot">
+        正在將數據保存到數據庫，請稍候...
+    </string>
+    <string name="update">
+        更新
+    </string>
+
+    <!--              -->
+    <!-- 3rd part end -->
+    <!--              -->
+
+    <!--                -->
+    <!-- 4th part start -->
+    <!--                -->
+
+    <string name="permission_is_granted_">
+        已授予權限，現在可以重試。
+    </string>
+    <string name="permission_is_denied_">
+        權限被拒絕。請考慮授予，以訪問數據！
+    </string>
+    <string name="message_checking_permission_">
+        正在檢查權限...
+    </string>
+    <string name="message_requesting_permission_">
+        正在請求權限...
+    </string>
+
+    <!--              -->
+    <!-- 4th part end -->
+    <!--              -->
+
+    <!--                -->
+    <!-- rate my app start -->
+    <!--
+    <string name="rta_dialog_title">Rate this app</string>
+    <string name="rta_dialog_message">If you enjoy using this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thank you for your support!</string>
+    <string name="rta_dialog_ok">Rate now</string>
+    <string name="rta_dialog_cancel">Later</string>
+    <string name="rta_dialog_no">No, thanks</string>
+                    -->
+    <!-- rate my app end -->
+    <!--                -->
 </resources>
