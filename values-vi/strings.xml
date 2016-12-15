@@ -5,19 +5,19 @@
         OK
     </string>
     <string name="cancel">
-        Cancel
+        Hủy bỏ
     </string>
     <string name="yes">
         Yes
     </string>
     <string name="no">
-        No
+        Không
     </string>
     <string name="continue_word">
-        Continue
+        Tiếp tục
     </string>
     <string name="retry">
-        Retry
+        Thử lại
     </string>
     <string name="none">
         None
@@ -29,67 +29,67 @@
     <string name="save">
         Save
     </string>
-    <string name="delete">
-        Delete
+    <string name="delete">        
+	Xóa bỏ
     </string>
     <string name="delete_all">
-        Delete All
+        Xóa hết
     </string>
     <string name="select">
-        Select
+        Chọn
     </string>
     <string name="please">
-        Please
+        Xin vui lòng
     </string>
     <string name="return_word">
-        Return
+        Trở về
     </string>
     <string name="next">
-        Next
+        Kế tiếp
     </string>
     <string name="back">
-        Back
+        Trở lại
         <!-- move backwards -->
     </string>
     <string name="forward">
-        Forward
+        Kế tiếp
         <!-- move forwards -->
     </string>
     <string name="warning">
-        Warning
+        Cảnh báo
     </string>
     <string name="error">
-        Error
+        Lỗi
     </string>
     <string name="correct">
-        Correct
+        Đúng
     </string>
     <string name="open">
-        Open
+        Mở
     </string>
     <string name="close">
-        Close
+        Đóng
     </string>
     <string name="camera">
-        Camera
+        Máy ảnh
     </string>
     <string name="gallery">
-        Gallery
+        Bộ sưu tập
     </string>
     <string name="defined">
-        Defined
+        Định nghĩa
     </string>
     <string name="undefined">
-        Undefined
+        Chưa xác định
     </string>
     <!-- General commands - end -->
 
     <!-- omb and privacy statement - start -->
     <string name="expiration_date">
-        Expiration date: 07/31/2016
+        Ngày hết hạn: 07/31/2016
     </string>
     <string name="ome_number">
-        OMB number: 0925-0612
+        số OMB: 0925-0612
     </string>
     <string name="burden_statement">
         BURDEN STATEMENT
@@ -109,11 +109,10 @@
         \nDo not return the completed form to this address.&quot;
     </string>
     <string name="omb_notice">
-        Notice
+        Ghi chú
     </string>
     <string name="omb_submission">
-        Submission of information is voluntary. All submitted information will be made 
-		publicly available.
+       Gửi thông tin này là tự nguyện. Tất cả các thông tin đã nộp sẽ được công bố công khai.
     </string>
     <string name="omb_text1">
         Public reporting burden for this collection of information is estimated to average 3 
@@ -131,11 +130,11 @@
 		\nBethesda MD 20892-7974
         <!-- do not translate this line -->
     </string>
-    <string name="omb_sub">
-        I have read this and agree
+    <string name="omb_sub">        
+	Tôi đã đọc và đồng ý
     </string>
     <string name="i_refuse">
-        I Refuse
+        Tôi từ chối
     </string>
     <!-- omb and privacy statement - end -->
 
@@ -145,34 +144,34 @@
         <!-- do not need translate -->
     </string>
     <string name="welcome">
-        Welcome
+       Chào mừng
     </string>
     <string name="username">
-        Username
+       Tên đăng nhập
     </string>
     <string name="password">
-        Password
+        Mật khẩu
     </string>
     <string name="login">
-        Login
+        Đăng nhập
     </string>
     <string name="logout">
-        Logout
+        Đăng xuất
     </string>
     <string name="login_or_logout">
-        Login/Logout
+        Đăng nhập / Đăng xuất
     </string>
     <string name="guest">
-        Guest
+        Khách
     </string>
     <string name="login_was_successful">
-        Login was successful
+       Đăng nhập thành công
     </string>
     <string name="good_bye">
-        Good bye
+        Tạm biệt
     </string>
     <string name="you_are_now_a_developer">
-        You are now a developer!
+       Bây giờ bạn là một lập trình viên!
     </string>
     <string name="web_server">
         Web Server
@@ -182,29 +181,29 @@
         <!-- online or offline, connected or dis-connected -->
     </string>
     <string name="check">
-        Check
+        Kiểm tra
     </string>
     <string name="latency">
-        Latency
+        Độ trễ
         <!-- server response time -->
     </string>
-    <string name="time_out">
-        Time out
+    <string name="time_out">        
+	Hết giờ
     </string>
     <string name="event">
-        Event
+        Sự Kiện
     </string>
     <string name="change">
-        Change
+        Thay đổi
     </string>
     <string name="date">
-        Date
+        Ngày
     </string>
     <string name="event_location">
         Event Location
     </string>
     <string name="find">
-        Find
+        Tìm
         <!-- find a missing person -->
     </string>
     <string name="report">
@@ -212,11 +211,11 @@
         <!-- report a missong person -->
     </string>
     <string name="organize">
-        Organize
+        Tổ chức
         <!-- organize files which saved in folders -->
     </string>
     <string name="do_you_want_to_login">
-        Do you want to login?
+        Bạn có muốn đăng nhập?
     </string>
     <string name="do_you_want_to_login_dis">
         As a guest, you may have some limited functions to use. To login is highly suggested.
@@ -225,22 +224,22 @@
 
     <!-- missing person list - start -->
     <string name="filter">
-        Filter
+        Lọc
         <!-- make selections to narrow down the searching -->
     </string>
     <string name="name">
-        Name
+        Tên
         <!-- search by input missing person's name -->
     </string>
     <string name="photo">
-        Photo
+        Hình
         <!-- search by input missing person's photo -->
     </string>
     <string name="page">
-        Page
+        Trang
     </string>
     <string name="search">
-        Search
+        Tìm
     </string>
     <string name="more">
         More
@@ -250,104 +249,104 @@
 
     <!-- missing person information - start -->
     <string name="draft">
-        Draft
+        Bản nháp
         <!-- folder to save uncompleted records -->
     </string>
     <string name="send">
-        Send
+        Gởi
         <!-- command to send the report -->
     </string>
     <string name="primary_image">
-        Primary Image
+        Hình ảnh chánh
         <!-- first image of a missing person -->
     </string>
     <string name="secondary_image">
-        Secondary Image
+        Hình ảnh phụ
         <!-- second or third, etc image of a missing person -->
     </string>
     <string name="press_button_on_right_side_to_add_caption">
-        Press button on right side to add caption
+        Bấm nút bên phải để thêm chú thích
         <!-- description -->
     </string>
     <string name="caption">
-        Caption
+        Lời chú thích
     </string>
     <string name="missing_person_information">
-        Missing Person Information
+        Thông tin về Người thất lạc
     </string>
     <string name="first_name">
-        First Name
+        Tên
     </string>
-    <string name="last_name">
-        Last Name
+    <string name="last_name">        
+	Tên họ
     </string>
     <string name="other_names">
-        Other Names
+        Tên khác
     </string>
     <string name="age">
-        Age
+        Tuổi tác
     </string>
     <string name="gender">
-        Gender
+        Gioi tính
     </string>
     <string name="male">
-        Male
+        Nam giới
     </string>
     <string name="female">
-        Female
+         Nữ giới
     </string>
     <string name="unknown">
-        Unknown
+        Không xác định
     </string>
     <string name="complex">
         Complex
     </string>
     <string name="status">
-        Status
+        Trạng thái
         <!-- missing person's status: missing, alive and well, injured, deceased, unknown or found -->
     </string>
     <string name="missing">
-        Missing
+        Mất tích
     </string>
     <string name="alive_and_well">
-        Alive and Well
+        Còn sống
     </string>
     <string name="injured">
-        Injured
+        Bị thương
     </string>
     <string name="deceased">
-        Deceased
+        đã qua đời
     </string>
     <string name="found">
-        Found
+        được tìm thấy
     </string>
     <string name="last_seen_location">
-        Last Seen Location
+        Vị trí cuối cùng được nhìn thấy
     </string>
     <string name="additional_details">
-        Additional Details
+        Chi tiết bổ sung
     </string>
     <string name="missing_person_uuid">
-        Missing Person UUID
+        số UUID của người mất tích
     </string>
     <string name="last_updated_date">
-        Last Updated Date
+        Ngày của cập nhật mới nhất 
     </string>
     <string name="follow">
-        Follow
+        Theo
     </string>
     <string name= "why_follow_a_record">
-        Why follow a record?
+        Tại sao nên theo dõi một hồ sơ?
     </string>
     <string name="follow_record_des">
-        To receive email alert when this record is updated with new information, you can select to
-        follow this person. You will only receive an email when the record is updated with new
-        information or when someone leaves a comment.
+        Để nhận được thông báo qua email khi hồ sơ này được cập nhật với thông tin mới, bạn có thể chọn
+        theo dõi người này. Bạn sẽ nhận được một email khi hồ sơ được cập nhật với 
+        thông tin mới hoặc khi một người nào đó để lại một bình luận.
     </string>
     <string name="why_follow_record">
-        To receive email alerts when this record is updated with new information, you can elect to
-        follow this person. You will only receive an email when the record is updated with new
-        information or when someone leaves a comment.
+        Để nhận được thông báo qua email khi hồ sơ này được cập nhật với thông tin mới, bạn có thể chọn
+        theo dõi người này. Bạn sẽ nhận được một email khi hồ sơ được cập nhật với 
+        thông tin mới hoặc khi một người nào đó để lại một bình luận.
     </string>
     <!-- missing person information - end -->
 
@@ -356,95 +355,95 @@
         Input by right side button
     </string>
     <string name="google_map_view">
-        Google Map View
+        Xem Google Map 
     </string>
     <string name="gps_cannot_detect_current_location">
-        GPS cannot detect current location
+        GPS không thể phát hiện vị trí hiện tại
     </string>
     <string name="let_gps_to_fill_your_address">
-        Let GPS to fill your address
+        Hãy để GPS điền vào địa chỉ của bạn
     </string>
     <string name="address_book_is_empty">
-        Address book is empty
+        Sổ Địa Chỉ bị trống
     </string>
     <string name="select_from_adress_book">
-        Select from address book
+        Chọn từ sổ địa chỉ
     </string>
     <string name="street">
-        Street
+        đường
     </string>
     <string name="city">
-        City
+        Thành phố
     </string>
-    <string name="state">
-        State
+    <string name="state">        
+	Tiểu bang
     </string>
     <string name="zip">
         Zip
     </string>
     <string name="country">
-        Country
+        Quốc gia
     </string>
     <string name="comments">
         Comments
     </string>
     <string name="maximum_500_characters">
-        Maximum 500 characters
+        500 ký tự tối đa
     </string>
     <string name="required_field">
-        Required field
+        Phần bắt buộc
         <!-- the field that the user must input -->
     </string>
     <!-- Report missing person - end -->
 
     <!-- Organize - start -->
     <string name="lost_person_files">
-        Lost Person Files
+        Hồ sơ người mất tích
     </string>
     <string name="file_found">
-        file found
+        Hồ sơ được tìm thấy
     </string>
     <string name="files_found">
-        files found
+        Các hồ sơ được tìm thấy
     </string>
     <string name="no_file_is_found">
-        No file is found
+        hồ sơ không được tìm thấy
     </string>
     <!-- Organize - end -->
 
     <!-- web server latency - start -->
     <string name="excellent">
-        Excellent
+        Xuất sắc
     </string>
     <string name="good">
-        Good
+        Tốt
     </string>
     <string name="poor">
-        Poor
+        Xấu
     </string>
     <string name="disconnected">
-        Disconnected
+        Bị ngắt
     </string>
     <!-- web server latency - end -->
 
     <!-- toast messages - start -->
     <string name="this_option_is_not_available">
-        This option is not available
+        Sự chọn lựa này không có
     </string>
     <string name="all_photos_are_deleted">
-        All photos are deleted
+        Tất cả các hình ảnh đều bị xóa
     </string>
     <string name="all_records_are_deleted">
-        All records are deleted
+        Tất cả hồ sơ đều được xóa
     </string>
     <string name="email">
         Email
     </string>
     <string name="sending_email">
-        Sending email...
+        Gửi email...
     </string>
     <string name="there_is_no_email_client_installed">
-        There is no email client installed
+       Không có ứng dụng email được cài đặt
     </string>
     <string name="html_file_is_empty">
         HTML file is empty
