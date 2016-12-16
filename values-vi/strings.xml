@@ -449,258 +449,256 @@
         HTML file is empty
     </string>
     <string name="done">
-        Done
+        Xong
     </string>
     <string name="canceled">
-        Canceled
+        Bị hủy bỏ
     </string>
     <string name="succeed">
-        Succeed
+        Thành công
     </string>
     <string name="not_succeed">
-        Not succeed
+       Không thành công
     </string>
     <string name="completed">
-        Completed
+       Đã hoàn thành
     </string>
-    <string name="implemented">
-        Implemented
+    <string name="implemented">        
+	Đã thực hiện
     </string>
     <string name="not_implemented">
-        Not implemented
+        Không được thực hiện
     </string>
     <string name="no_record_is_found">
-        No record is found
+       Hồ sơ không được tìm thấy
     </string>
     <string name="need_to_login">
-        Need to login
+        Cần phải đăng nhập
     </string>
     <string name="no_photo">
-        No photo
+        Không có ảnh
     </string>
     <string name="no_photo_is_found">
-        No photo is found
+        Hình ảnh không được tìm thấy
     </string>
     <string name="a_photo_is_selected">
-        A photo is selected
+        Một bức ảnh được chọn
     </string>
     <string name="moving_to_photo_number">
         Moving to photo number
     </string>
     <string name="you_are_about_to_delete_all_the_photos_saved_in_cache">
-        You are about to delete all the photos saved in cache
+        Bạn muốn xóa tất cả các ảnh được lưu trong bộ nhớ cache
     </string>
     <string name="are_you_sure_you_want_to_delete_the_selected_photo">
-        Are you sure you want to delete the selected photo?
+        Bạn có chắc chắn bạn muốn xóa ảnh đã chọn?
     </string>
     <string name="no_photo_is_selected_do_you_really_want_to_quit">
-        No photo is selected. Do you really want to quit?
+        Không có ảnh được chọn. Bạn có thực sự muốn hủy bỏ?
     </string>
     <string name="file_is_saved">
-        File is saved
+        Tập tin được lưu
     </string>
     <string name="report_abuse_and_its_explanation_are_sent">
-        Report abuse and its explanation are sent
+        Báo cáo lạm dụng và giải thích được gửi
     </string>
     <string name="all_files_in_outbox_are_deleted">
-        All files in outbox are deleted
+        Tất cả các tập tin trong hộp thư được gửi đi đã được xóa
     </string>
     <string name="searching_images_took_seconds">
-        Search images took seconds
+        Tìm kiếm hình ảnh mất vài giây
     </string>
     <string name="google_authenticated_token_is_empty">
-        Google authenticated token is empty
+        Thẻ chứng thực Google bị trống
     </string>
     <!-- toast messages - end -->
 
     <!-- dialogue box message - start -->
     <string name="processing_please_wait">
-        Processing, please wait...
+        đang xử lý, vui lòng đợi...
     </string>
     <string name="updating_the_status_please_wait">
-        Updating the status, please wait...
+        đang cập nhật trạng thái, vui lòng đợi...
     </string>
     <string name="retrieving_events_please_wait">
-        Retrieving events, please wait...
+        đang lấy sự kiện, xin vui lòng chờ đợi...
     </string>
     <string name="retrieving_information_on_selected_event_please_wait">
-        Retrieving information on selected event, please wait...
+        đang lấy thông tin về sự kiện được lựa chọn, xin vui lòng chờ đợi...
     </string>
     <string name="detecting_the_speed_please_wait">
-        Detecting the speed, please wait...
+        đang dò tốc độ, xin vui lòng chờ đợi...
     </string>
     <string name="logging_in_please_wait">
-        Logging in, please wait...
+        đang Đăng nhập, xin vui lòng chờ đợi...
     </string>
     <string name="saving_data_to_database_please_wait">
-        Saving data to database, please wait...
+        đang lưu dữ liệu vào cơ sở dữ liệu, xin vui lòng chờ đợi...
 	</string>
     <string name="reporting_missing_person_please_wait">
         Reporting missing person, please wait...
     </string>
     <string name="reporting_abuse_please_wait">
-        "Reporting abuse, please wait...
+        đang báo cáo lạm dụng, xin vui lòng chờ đợi...
     </string>
     <string name="loading_images_please_wait">
-        Loading images, please wait...
+        đang tải hình ảnh, xin vui lòng chờ đợi...
     </string>
     <string name="searching_the_selected_record_">
-        Searching the selected missing person file, please wait...
+        đang tìm kiếm các thông tin người mất tích được chọn, xin vui lòng chờ đợi...
     </string>
     <string name="un_flowing_all_the_records_please_wait">
-        Un-following all the records, please wait...
+        dừng theo dõi tất cả các hồ sơ, xin vui lòng chờ đợi...
     </string>
     <string name="information_is_sent">
-        Information is sent
+        Thông tin được gửi
     </string>
     <string name="save_a_copy_to_device">
-        Save a copy to device
+        Lưu một bản sao ở trong thiết bị
     </string>
     <string name="registration_is_successful_">
-        Registration is successful! Please login or find more information from your email
+        Đăng ký thành công! Hãy đăng nhập hoặc tìm thêm thông tin từ email của bạn
     </string>
     <string name="first_name_is_empty">
-        First name is empty!
+        Tên bị trống!
     </string>
     <string name="last_name_is_empty">
-        Last name is empty!
+        Tên họ bị trống!
     </string>
     <string name="email_is_empty">
-        Email is empty!
+        Email bị trống!
     </string>
     <string name="username_is_empty">
-        Username is empty!
+        Tên đăng nhập bị trống!
     </string>
     <string name="password_is_empty">
-        Password is empty!
+        Mật khẩu bị trống!
     </string>
     <string name="confirmation_password_is_empty">
-        Confirmation password is empty!
+        Mật khẩu xác nhận bị trống!
     </string>
     <string name="two_passwords_are_not_identical">
-        Two passwords are not identical.
+        Hai Mật khẩu không giống hệt nhau.
     </string>
     <string name="password_requires_at_least_8_characters">
-        Password requires at least 8 characters.
+        Mật khẩu phải có ít nhất 8 ký tự.
     </string>
     <string name="password_cannot_have_more_than_16_characters">
-        Password cannot have more than 16 characters.
+        Mật khẩu không thể có nhiều hơn 16 ký tự.
     </string>
     <string name="password_must_have_at_least_one_uppercase_character">
-        Password must have at least one uppercase character.
+        Mật khẩu phải có ít nhất một ký tự chữ hoa.
     </string>
     <string name="password_must_have_at_least_one_lowercase_character">
-        Password must have at least one lowercase character.
+        Mật khẩu phải có ít nhất một ký tự chữ thường.
     </string>
     <string name="password_must_have_at_least_one_numeral">
-        Password must have at least one numeral (0-9).
+        Mật khẩu phải có ít nhất một chữ số (0-9).
     </string>
     <string name="password_cannot_contain_your_username">
-        Password cannot contain your username.
+        Mật khẩu không thể chứa tên truy cập của bạn.
     </string>
     <string name="you_need_to_select_the_event">
-        You need to select the event
+        Bạn cần phải chọn một sự kiện
     </string>
     <string name="do_you_want_to_delete_this_image">
-        Do you want to delete this image?
+        Bạn muốn xóa ảnh này?
     </string>
     <string name="enter_exact_age_in_the_first_field_otherwise_use_both_fields_for_age_range">
-        Enter exact age in the first field, other wise use both fields for age range.
+        Nhập tuổi chính xác trong field đầu tiên, nếu không, sử dụng cả hai field cho độ tuổi.
     </string>
     <string name="as_a_guest_you_">
-        As a guest, you can report a missing person anonymously. But you wil have some limited 
-		functions.
+        Là một khách, bạn có thể báo cáo một người mất tích ẩn danh. Nhưng bạn sẽ có một số chức năng hạn chế.
     </string>
     <string name="are_you_sure_you">
-        Are you sure you want to quit current work?
+        Bạn có chắc là bạn muốn bỏ công việc hiện tại?
     </string>
     <string name="you_do_not_have_any_following_records">
-        You do not have any following records
+        Bạn không theo dõi bất kỳ hồ sơ nào
     </string>
     <string name="you_do_not_have_internet_connection">
-        You do not have internet connection
+        Bạn không có kết nối internet
     </string>
     <string name="as_a_guest_you_may_report_">
-        As a guest, you may report a missing person anonymously. But you will have limited 
-		functions to use.
+        Là một khách, bạn có thể báo cáo một người mất tích ẩn danh. Nhưng bạn sẽ bị hạn chế chức năng sử dụng.
     </string>
     <string name="as_a_guest_you_may_have_">
-        As a guest, you may have some limited function to use, To login is highly suggested.
+        Là một khách, bạn có thể có một số chức năng hạn chế sử dụng, bạn được khuyến khích để đăng nhập.
     </string>
     <string name="change_is_made_">
-        Change is made. Please restart the APP.
+        Thay đổi được thực hiện. Hãy khởi động lại APP.
     </string>
     <!-- dialogue box message - end -->
 
     <!-- text shown on menu - start -->
     <string name="social_media">
-        Social Media
+        Truyền thông xã hội
     </string>
     <string name="tutorials">
-        Tutorials
+        Hướng dẫn
     </string>
     <string name="email_us">
-        Email Us
+        Gửi email cho chúng tôi
     </string>
     <string name="version_history">
-        Version History
+        Lịch sử phiên bản
     </string>
     <string name="cache">
-        Cache
+        Bộ nhớ cache
     </string>
     <string name="clean_cache">
-        Clean Cache
+        Làm sạch Bộ nhớ cache
     </string>
     <string name="refresh">
-        Refresh
+        Làm mới
     </string>
     <string name="email_html_file">
         Email HTML File
     </string>
     <string name="developer_tools">
-        Developer Tools
+       Công cụ của lập trình viên
     </string>
     <string name="enter_username_and_password">
-        Enter Username and Password
+        Nhập Tên truy cập và Mật khẩu
     </string>
     <string name="about">
-        About
+        Về
     </string>
     <string name="report_abuse">
-        Report Abuse
+        Báo cáo Lạm dụng
     </string>
     <string name="update_image">
-        Update Image
+        Cập nhật hình ảnh
     </string>
     <string name="get_male_name">
-        Get Male Name
+        Nhận Tên Nam
     </string>
     <string name="get_female_name">
-        Get Female Name
+        Nhận Tên Nữ 
     </string>
     <string name="notification">
-        Notification
+        Thông báo
     </string>
     <string name="show_omb">
-        Show OMB
+        Hiện OMB
     </string>
     <string name="future_developments">
-        Future Developments
+        Sự phát triển trong tương lai
     </string>
     <string name="display_gcm_token">
-        Display GCM Token
+        Hiển thị Mã GCM 
     </string>
     <string name="gcm_token_upload_status">
-        GCM Token Upload Status
+        Tải Trạng thái Mã GCM   
     </string>
     <string name="send_gcm_message">
-        Send GCM Message
+        Gửi tin nhắn GCM
     </string>
     <string name="email_gcm_token">
-        Email GCM Token
+       Email Mã GCM 
     </string>
     <string name="select_web_server">
-        Select Web Server
+        Chọn Web Server
     </string>
     <!-- text shown on menu - end -->
 </resources>
