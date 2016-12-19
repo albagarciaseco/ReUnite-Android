@@ -12,10 +12,10 @@
         取消
     </string>
     <string name="yes">
-        是的
+        是
     </string>
     <string name="no">
-        没有
+        没
     </string>
     <string name="continue_word">
         继续
@@ -59,11 +59,11 @@
         <!-- move backwards -->
     </string>
     <string name="forward">
-        前进
+        向前
         <!-- move forwards -->
     </string>
     <string name="warning">
-        Warning
+
     </string>
     <string name="error">
         错误
@@ -90,7 +90,7 @@
         未定义
     </string>
     <string name="language">
-    	英语
+    	语言
     </string>
     <!-- General commands - end -->
 
@@ -102,7 +102,7 @@
         OMB编号: 0925-0612
     </string>
     <string name="omb_notice">
-        注意
+        注意三
     </string>
     <string name="omb_submission">
         上传信息都是个人自愿行为，所上传的信息全部都将向公众全部公开。
@@ -118,7 +118,7 @@
         6705 Rockledge Drive MSC 7974, \n
         Bethesda MD 20892-7974, \n
         ATTN: PRA (0925-0612). \n
-		Do not return the completed form to this address.
+		请不要将填妥的表格寄回上述地址。
     </string>
     <string name="omb_sub">
         我已经阅读本文，并同意
@@ -186,7 +186,7 @@
         日期
     </string>
     <string name="event_location">
-        事件
+        事件发生地点
     </string>
     <string name="find">
         寻找
@@ -301,7 +301,7 @@
         受伤
     </string>
     <string name="deceased">
-
+        死亡
     </string>
     <string name="found">
         找到
@@ -487,13 +487,13 @@
         此记录滥用，已发送报告并解释原因
     </string>
     <string name="all_files_in_outbox_are_deleted">
-        发件箱中的所有文件都删除
+        发件箱中的所有文件都已删除
     </string>
     <string name="searching_images_took_seconds">
         搜索图像费时
     </string>
     <string name="google_authenticated_token_is_empty">
-        谷歌认证令牌是空
+        谷歌认证令牌是空缺的
     </string>
     <!-- toast messages - end -->
 
@@ -538,7 +538,7 @@
         发送信息
     </string>
     <string name="save_a_copy_to_local">
-        将副本保存到本
+        将副本保存到本装置
     </string>
     <string name="registration_is_successful_">
         注册成功！请登录或从您的电子邮件中找到更多信息
@@ -589,7 +589,7 @@
         您要删除此图片吗？
     </string>
     <string name="as_a_guest_you_">
-        作为一个客人，你可以匿名报告失踪的人。但是你只有一些有限的功能.
+        作为一名访客，你可以匿名报告失踪的人。但是你仅有一些有限的功能.
     </string>
     <string name="are_you_sure_you_want_to_quite_current_work_q">
         你确定想退出当前的工作吗？
@@ -601,10 +601,10 @@
         您没有互联网连接
     </string>
     <string name="as_a_guest_you_may_report_">
-        作为访客，您可以匿名举报失踪人员。但你只有有限的功能使用。
+        作为一名访客，您可以匿名举报失踪人员。但你只有有限的功能使用。
     </string>
     <string name="as_a_guest_you_may_have_">
-        作为一个客，您可能使用一些有限的功能，强烈建议登录。
+        作为一名访客，您可能使用一些有限的功能，强烈建议登录。
     </string>
     <string name="change_is_made_">
         更改完成。请重新启动APP。
@@ -625,7 +625,7 @@
         版本历史
     </string>
     <string name="cache">
-        Cache
+        缓存
     </string>
     <string name="clean_cache">
         清理缓存
@@ -698,7 +698,7 @@
         <!-- "context": "Error message presented when user tries to use an email address already in use." -->
     </string>
     <string name="plusError7">
-        错误：您提供的用户名无效　
+        错误：您提供的用户名已被占用
         <!-- "context": "Error message presented when a user attempts to register with a username that is already in use by another user." -->
     </string>
     <string name="plusError8">
@@ -790,10 +790,10 @@
         没有跟踪
     </string>
     <string name="no_follow">
-        没有跟踪
+        不跟踪
     </string>
     <string name="logout_first">
-        首先注销
+        请先退出
     </string>
     <string name="undetected">
         未检测
@@ -941,7 +941,7 @@
         所有文件都删除
     </string>
     <string name="web_server_is_not_found">
-        找不到Web服务器
+        找不到网络服务器已经被占
     </string>
     <string name="this_file_was_downloaded_earlier_">
         此文件先前已下载。它可能不是最新的。要查看最更新的文件，请返回主页，然后重试\"查找\"
@@ -1074,7 +1074,7 @@
         本应用程序不会跟踪用户位置。
     </string>
     <string name="ps_note_10">
-		本应用程序使用显式用户操作位置方法，探测用户当前的位置，目的仅是为了方便查找事件发生的地址。
+	本应用程序使用显式用户操作位置方法，探测用户当前的位置，目的仅是为了方便查找事件发生的地址。
     </string>
 
     <!--              -->
